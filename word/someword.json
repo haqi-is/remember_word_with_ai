@@ -1,0 +1,5038 @@
+{
+    "ability": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "ability",
+        "chines": "能力",
+        "accuracy": [
+            14,
+            9,
+            0.63
+        ],
+        "tips": "“ability”可以拆成“able”+“ity”。记住“able”是“能”的意思，“ity”是一个常见的名词后缀，表示“性质、状态”。所以“ability”就是“能”的性质或状态，即“能力”。",
+        "example": [
+            "1. She has the ability to speak four languages.",
+            "2. Despite facing numerous challenges throughout his life, John's exceptional ability to overcome adversity and achieve his goals has inspired many people around him."
+        ],
+        "first_time": "2024-12-19_13:20:52",
+        "last_time": "2024-12-30_14:15:46"
+    },
+    "able": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "great"
+        ],
+        "word": "able",
+        "chines": "能够",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. She is able to swim.",
+            "2. Despite the challenging conditions, the team was able to complete the project on time."
+        ],
+        "first_time": "2024-12-19_13:21:30",
+        "last_time": "2024-12-30_14:15:48"
+    },
+    "abroad": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good"
+        ],
+        "word": "abroad",
+        "chines": "在国外",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "“abroad”可以拆成 “a-”（表示“在...上”）和 “broad”（宽广的）。想象一下，你站在一块大石头上，这块石头非常宽广，你从这里眺望远方，就像是到了国外一样。所以，“abroad”就是“在国外”的意思。",
+        "example": [
+            "1. She traveled abroad last summer.",
+            "2. Despite the challenges of adapting to a new culture, he decided to pursue his studies abroad to gain a global perspective and enhance his career opportunities."
+        ],
+        "first_time": "2024-12-19_13:22:52",
+        "last_time": "2024-12-30_14:15:53"
+    },
+    "absent": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "great"
+        ],
+        "word": "absent",
+        "chines": "缺席",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. He was absent from school yesterday.",
+            "2. Despite being absent from the meeting, she managed to stay informed about the decisions made by her colleagues."
+        ],
+        "first_time": "2024-12-19_13:23:55",
+        "last_time": "2024-12-30_14:15:55"
+    },
+    "absorb": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "absorb",
+        "chines": "吸收",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "“吸收”这个词可以联想为：海绵吸水。海绵（ab-sponge）吸水（sorb-sound），海绵吸水就是吸收水分的意思，这样可以帮助你记住 absorb 表示“吸收”的意思。",
+        "example": [
+            "1. The sponge absorbs water.",
+            "2. The new employee was eager to absorb as much knowledge as possible about the company's operations and culture during the orientation program."
+        ],
+        "first_time": "2024-12-19_13:24:14",
+        "last_time": "2024-12-30_14:16:06"
+    },
+    "academic": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "academic",
+        "chines": "理论的",
+        "accuracy": [
+            16,
+            9,
+            0.55
+        ],
+        "tips": "“academic”可以拆分成“a-ca-de-mic”。你可以想象成“A级的学霸”，A级代表成绩非常好，学霸就是学术上的高手，这样就能联想到学校、学习和学术这些意思。这个词主要指与教育、学校或学术有关的人或事。希望这个方法能帮你记住“academic”。",
+        "example": [
+            "1. She is an academic at Harvard University.",
+            "2. His research on climate change has made significant contributions to the academic community and influenced global environmental policies."
+        ],
+        "first_time": "2024-12-19_13:24:45",
+        "last_time": "2024-12-30_14:16:16"
+    },
+    "accept": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good",
+            "v"
+        ],
+        "word": "accept",
+        "chines": "(v)接受；同意；容忍",
+        "accuracy": [
+            10,
+            8,
+            0.79
+        ],
+        "tips": "“accept”可以拆成“ac-”和“-cept”。你可以想象“ac-”是“acknowledge”的缩写，意味着“认可”，“-cept”可以联想成“receive”的一部分，意味着“接收”。所以“accept”就是“认可并接收”。\n\n简单来说，“accept”就是“接受”，比如别人给你的建议或者礼物，你同意了就叫“接受”。",
+        "example": [
+            "1. She accepted the gift with a smile.",
+            "2. After much consideration, he decided to accept the job offer, even though it meant relocating to a different city and adapting to a new environment."
+        ],
+        "first_time": "2024-12-19_13:25:00",
+        "last_time": "2024-12-30_14:16:19"
+    },
+    "acceptable": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "acceptable",
+        "chines": "可接受的",
+        "accuracy": [
+            15,
+            8,
+            0.52
+        ],
+        "tips": "acceptable 可以拆成 “accept”（接受）+ “able”（能）。意思就是“能被接受的”。想象一下，如果你做了一件事情，别人点头说“可以”，那就是 acceptable。记住：能被接受的就是 acceptable。",
+        "example": [
+            "1. This answer is acceptable.",
+            "2. Despite the challenging circumstances, the project's outcome was deemed acceptable by all stakeholders involved."
+        ],
+        "first_time": "2024-12-19_13:25:13",
+        "last_time": "2024-12-30_14:16:27"
+    },
+    "accident": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "great"
+        ],
+        "word": "accident",
+        "chines": "事故",
+        "accuracy": [
+            12,
+            10,
+            0.82
+        ],
+        "tips": "“accident”可以拆成“ac-ci-dent”，想象成“阿聪出事了”，这样就能记住它的意思了。阿聪（ac）出了事（ci），非常不幸（dent）。这个方法可以帮助你记住“accident”表示“意外事故”。",
+        "example": [
+            "1. The accident happened at the intersection.",
+            "2. Despite the driver's best efforts to avoid it, the accident still occurred, causing significant damage to both vehicles and a temporary traffic jam on the busy highway."
+        ],
+        "first_time": "2024-12-19_13:25:33",
+        "last_time": "2024-12-30_14:16:31"
+    },
+    "accomplish": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good"
+        ],
+        "word": "accomplish",
+        "chines": "完成",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "“accomplish”可以拆分成 “ac-” (表示“做”) + “com-” (表示“完全”) + “plish” (听起来像“皮了事儿”)。所以你可以理解为“把事情完全做完”。这样记忆：做事要做到底，完全完成任务，就是“accomplish”。",
+        "example": [
+            "1. She accomplished her goal of running a marathon.",
+            "2. Despite the numerous obstacles and challenges, he was determined to accomplish his lifelong dream of becoming a successful novelist."
+        ],
+        "first_time": "2024-12-19_13:26:09",
+        "last_time": "2024-12-30_14:16:42"
+    },
+    "accord": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good"
+        ],
+        "word": "accord",
+        "chines": "协议",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "“accord”可以拆成“ac-”和“-cord”，“ac-”可以理解为“一起”，“-cord”听起来像“心”。所以“accord”可以理解为“心往一处想，劲往一处使”，也就是“一致、和谐”的意思。这样记忆会更形象一些。",
+        "example": [
+            "1. They reached an accord on the trade deal.",
+            "2. After months of negotiation, the two countries finally came to an accord that included significant concessions from both sides."
+        ],
+        "first_time": "2024-12-19_13:26:26",
+        "last_time": "2024-12-30_14:16:46"
+    },
+    "account": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good"
+        ],
+        "word": "account",
+        "chines": "账户",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "\"account\" 可以拆分为 \"ac-\" 和 \"count\"。\"ac-\" 可以理解为 \"to\" 或 \"towards\"，\"count\" 就是“数”或“计算”的意思。所以 \"account\" 可以理解为“计算某事”或“对某事进行记录”。\n\n简单记忆：账**户**（账户需要记录和计算）。\n\n希望这个方法能帮助你记住 \"account\"。",
+        "example": [
+            "1. She checked her bank account online.",
+            "2. Despite the initial confusion, he was able to provide a detailed account of the events that transpired during the meeting."
+        ],
+        "first_time": "2024-12-19_13:26:58",
+        "last_time": "2024-12-30_14:16:54"
+    },
+    "accuse": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "accuse",
+        "chines": "谴责控诉",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "“accuse”这个词可以拆成“ac”和“cuse”。想象一下，“ac”像空调的缩写，“cuse”听起来像“指控”。所以，你可以想象一个人开空调（ac）时被另一个人指控（cuse）浪费电。这样就记住了“accuse”是“指责、指控”的意思。",
+        "example": [
+            "1. She accused him of stealing her phone.",
+            "2. Despite the lack of evidence, the prosecutor continued to accuse the defendant of embezzlement, arguing that the circumstantial evidence was too strong to ignore."
+        ],
+        "first_time": "2024-12-19_13:27:13",
+        "last_time": "2024-12-30_14:17:02"
+    },
+    "ache": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "great"
+        ],
+        "word": "ache",
+        "chines": "痛",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. My head aches.",
+            "2. Despite taking medication, the persistent ache in her back made it difficult for her to concentrate on the meeting."
+        ],
+        "first_time": "2024-12-19_13:27:24",
+        "last_time": "2024-12-30_14:17:04"
+    },
+    "achieve": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "achieve",
+        "chines": "实现",
+        "accuracy": [
+            16,
+            8,
+            0.49
+        ],
+        "tips": "“achieve”可以拆成 “a” + “chieve”。想象一下，“a” 是一个苹果，“chieve” 看起来像“chief”（首领），所以你可以想象自己是一个小苹果，努力成为果林里的首领。这样就能记住“achieve”是达成目标、实现的意思。",
+        "example": [
+            "1. She achieved her goal.",
+            "2. Despite the numerous obstacles and challenges, he was able to achieve his lifelong dream of becoming a professional athlete."
+        ],
+        "first_time": "2024-12-19_13:27:44",
+        "last_time": "2024-12-30_14:17:07"
+    },
+    "achievement": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good"
+        ],
+        "word": "achievement",
+        "chines": "成就",
+        "accuracy": [
+            9,
+            6,
+            0.66
+        ],
+        "tips": null,
+        "example": [
+            "1. Her hard work led to great achievement.",
+            "2. The scientist's groundbreaking discovery was a significant achievement that changed the course of medical research."
+        ],
+        "first_time": "2024-12-19_13:28:09",
+        "last_time": "2024-12-30_14:17:51"
+    },
+    "acquire": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "acquire",
+        "chines": "获得购得",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "“acquire”可以拆分成“a-”和“-quire”。你可以想象成“a”代表“我”，“-quire”听起来像“求”，合起来就是“我求”，意思是我要求得到、获得。所以“acquire”的意思是“获得、取得”。\n\n另外，你也可以联想一下“require”这个词，它也有“需要、要求”的意思，“acquire”和“require”都含有“-quire”这个部分，可以帮助你记忆。",
+        "example": [
+            "1. She acquired a new car last week.",
+            "2. The company acquired a smaller competitor to expand its market share and diversify its product offerings."
+        ],
+        "first_time": "2024-12-19_13:28:29",
+        "last_time": "2024-12-30_14:17:54"
+    },
+    "action": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "great"
+        ],
+        "word": "action",
+        "chines": "行动",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She took action to solve the problem.",
+            "2. In response to the increasing pollution, the government has taken a series of actions to promote environmental protection and sustainable development."
+        ],
+        "first_time": "2024-12-19_13:28:43",
+        "last_time": "2024-12-30_14:17:56"
+    },
+    "activity": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "activity",
+        "chines": "活动",
+        "accuracy": [
+            18,
+            9,
+            0.49
+        ],
+        "tips": "“activity”可以拆成“act”和“ivity”。 “act”表示“做”，“ivity”可以联想为“活力”。所以“activity”就是有活力的行动或活动。这样想：任何有活力的、需要你去做的事情，都是activity。",
+        "example": [
+            "1. The children enjoy outdoor activity.",
+            "2. Despite the rainy weather, the community center organized a variety of indoor activity options for the participants."
+        ],
+        "first_time": "2024-12-19_13:29:04",
+        "last_time": "2024-12-30_14:18:08"
+    },
+    "actual": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "good"
+        ],
+        "word": "actual",
+        "chines": "真实的",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": "实际的、真实的。可以联想为“实际上”（actual）就是“真的”（true），两者发音有点像，可以帮你记忆。",
+        "example": [
+            "1. The actual cost was higher than expected.",
+            "2. Despite the initial estimates, the actual expenses for the project ended up being significantly higher due to unforeseen complications and material shortages."
+        ],
+        "first_time": "2024-12-19_13:29:54",
+        "last_time": "2024-12-30_14:18:15"
+    },
+    "actually": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "great"
+        ],
+        "word": "actually",
+        "chines": "事实上",
+        "accuracy": [
+            8,
+            7,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. Actually, I don't like coffee.",
+            "2. Actually, I was thinking about going to the library, but then I realized I had already borrowed all the books I needed."
+        ],
+        "first_time": "2024-12-19_13:30:11",
+        "last_time": "2024-12-30_14:18:19"
+    },
+    "adapt": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great",
+            "v"
+        ],
+        "word": "adapt",
+        "chines": "(v)适应",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. The plant adapted to the new environment.",
+            "2. Despite the challenging circumstances, she managed to adapt her teaching methods to meet the diverse needs of her students."
+        ],
+        "first_time": "2024-12-19_13:58:05",
+        "last_time": "2024-12-30_14:18:23"
+    },
+    "adaptable": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great",
+            "adj"
+        ],
+        "word": "adaptable",
+        "chines": "(adj)有适应能力的",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. This plant is adaptable to various climates.",
+            "2. Despite the rapidly changing technology, Sarah proved to be highly adaptable, quickly mastering new software and tools to enhance her productivity."
+        ],
+        "first_time": "2024-12-19_13:58:26",
+        "last_time": "2024-12-30_14:18:29"
+    },
+    "add": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "add",
+        "chines": "添加",
+        "accuracy": [
+            8,
+            7,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. Add two teaspoons of sugar to the coffee.",
+            "2. To enhance the flavor of the dish, add a pinch of saffron and a dash of lemon zest just before serving."
+        ],
+        "first_time": "2024-12-19_13:58:29",
+        "last_time": "2024-12-30_14:18:30"
+    },
+    "addict": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "addict",
+        "chines": "使上瘾",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He is an addict.",
+            "2. Despite numerous attempts to quit, she remained an addict, struggling with the constant cravings and the social stigma that came with her addiction."
+        ],
+        "first_time": "2024-12-19_13:59:08",
+        "last_time": "2024-12-30_14:18:36"
+    },
+    "addiction": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "addiction",
+        "chines": "入迷嗜好",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. His addiction to alcohol ruined his career.",
+            "2. Despite numerous attempts to quit, her addiction to smoking persisted, affecting both her health and social life."
+        ],
+        "first_time": "2024-12-19_13:59:36",
+        "last_time": "2024-12-30_14:18:43"
+    },
+    "addition": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "bad"
+        ],
+        "word": "addition",
+        "chines": "添加物",
+        "accuracy": [
+            11,
+            7,
+            0.63
+        ],
+        "tips": "“addition”可以拆成“add”（加）和“ition”来记忆。想象你在做数学题，不断在加数字，这就是“addition”。简单来说，“addition”就是增加或添加的意思。",
+        "example": [
+            "1. We made an addition to our house.",
+            "2. In addition to the main course, we also ordered several appetizers and desserts."
+        ],
+        "first_time": "2024-12-19_14:00:44",
+        "last_time": "2024-12-30_14:18:48"
+    },
+    "additionally": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "additionally",
+        "chines": "除此之外",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. Additionally, we need to buy some milk.",
+            "2. Additionally, the company plans to expand its operations into new markets, which will require significant investment in technology and human resources."
+        ],
+        "first_time": "2024-12-19_14:01:06",
+        "last_time": "2024-12-30_14:18:56"
+    },
+    "adjust": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "bad"
+        ],
+        "word": "adjust",
+        "chines": "调整整理",
+        "accuracy": [
+            13,
+            8,
+            0.61
+        ],
+        "tips": "“adjust”可以拆成“ad-just”，想象一下“正好、刚刚好”的意思。比如衣服大小“调整”一下就“刚好”了。这样记是不是简单一些？",
+        "example": [
+            "1. She needs to adjust the mirror.",
+            "2. After moving to a new city, he had to adjust his lifestyle to fit the faster pace of urban living."
+        ],
+        "first_time": "2024-12-19_14:01:20",
+        "last_time": "2024-12-30_14:19:00"
+    },
+    "admiration": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "bad"
+        ],
+        "word": "admiration",
+        "chines": "欣赏",
+        "accuracy": [
+            17,
+            9,
+            0.52
+        ],
+        "tips": "“admiration”可以拆成“ad”和“miration”。想象一下，你看到一个很牛的人（如偶像、英雄），你会“啊”（ad）地一声，然后眼睛发亮，心里充满敬仰（miration）。这样就能记住“admiration”是表示对某人的钦佩或赞赏。",
+        "example": [
+            "1. She felt admiration for his bravery.",
+            "2. Despite their rivalry, there was a mutual admiration between the two scientists that stemmed from their shared passion for groundbreaking research."
+        ],
+        "first_time": "2024-12-19_14:02:08",
+        "last_time": "2024-12-30_14:19:05"
+    },
+    "adopt": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "adopt",
+        "chines": "采用",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. She decided to adopt a cat from the shelter.",
+            "2. After years of trying to conceive, they finally decided to adopt a child, a decision that brought immense joy and fulfillment to their lives."
+        ],
+        "first_time": "2024-12-19_14:02:35",
+        "last_time": "2024-12-30_15:00:17"
+    },
+    "adult": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "great"
+        ],
+        "word": "adult",
+        "chines": "成年",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. The adult went to the store.",
+            "2. After reaching the age of 18, the young adult decided to move out and start a new chapter in her life."
+        ],
+        "first_time": "2024-12-20_10:05:27",
+        "last_time": "2024-12-30_14:19:24"
+    },
+    "advance": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "bad"
+        ],
+        "word": "advance",
+        "chines": "发展",
+        "accuracy": [
+            14,
+            9,
+            0.63
+        ],
+        "tips": "“advance”可以拆成“ad-”和“vance”。 “ad-”表示“向...”，“vance”听起来像“前进”。所以“advance”就是“向前前进”，意思就是提前、预先或者进步。你可以想象自己在比赛中比别人先一步前进，这样就能记得“advance”是关于提前或领先的。",
+        "example": [
+            "1. The company plans to advance its new product line next year.",
+            "2. In order to advance her career, Sarah decided to pursue a master's degree while working full-time, hoping that the additional qualification would open up new opportunities for her in the competitive job market."
+        ],
+        "first_time": "2024-12-20_10:10:22",
+        "last_time": "2024-12-30_14:19:36"
+    },
+    "advancement": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "bad"
+        ],
+        "word": "advancement",
+        "chines": "提升",
+        "accuracy": [
+            21,
+            12,
+            0.56
+        ],
+        "tips": "“advancement”可以拆分成“ad-”和“vance-”加上“-ment”。其中，“ad-”表示“向...”，“vance”来自“advance”，意思是“前进、提升”，而“-ment”是一个名词后缀。所以整个词的意思就是“向前的提升或发展”。\n\n记忆方法：想象你在公司里努力工作，不断“前进（advance）”，最终得到了职位上的“提升（advancement）”。",
+        "example": [
+            "1. The company values the advancement of its employees.",
+            "2. Rapid technological advancement in recent years has dramatically changed the way people communicate and access information."
+        ],
+        "first_time": "2024-12-20_10:10:48",
+        "last_time": "2024-12-30_14:19:43"
+    },
+    "advantage": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "good"
+        ],
+        "word": "advantage",
+        "chines": "优势",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "“advantage”可以拆分成“ad”+“vantage”。想象一下，“ad”可以联想为广告，而“vantage”可以理解为有利的位置。所以，当你看到一个广告（ad），它通常会告诉你某个产品或服务的优势（vantage），也就是它的优点或好处。这样，你就可以记住“advantage”是指某种优势、好处或有利条件。",
+        "example": [
+            "1. This method has an advantage.",
+            "2. The advantage of using this method is that it can significantly improve efficiency while reducing costs and streamlining the workflow."
+        ],
+        "first_time": "2024-12-20_10:11:05",
+        "last_time": "2024-12-30_14:19:53"
+    },
+    "adventure": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "bad"
+        ],
+        "word": "adventure",
+        "chines": "冒险",
+        "accuracy": [
+            17,
+            10,
+            0.58
+        ],
+        "tips": "这个词可以这样记忆：ad-（去）+ venture（冒险），想象一下前往未知的地方或尝试新事物，就是去冒险。它表示奇遇、冒险或探险活动，比如一次充满挑战的旅行或者尝试从未做过的事情。",
+        "example": [
+            "1. She loves adventure.",
+            "2. His latest adventure involved trekking through the dense jungle, navigating treacherous rivers, and discovering ancient ruins hidden from modern civilization."
+        ],
+        "first_time": "2024-12-20_10:11:28",
+        "last_time": "2024-12-30_14:19:59"
+    },
+    "adventurous": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "good"
+        ],
+        "word": "adventurous",
+        "chines": "有冒险精神的",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "这个单词可以这样记：\n\nadventure（冒险）+ ous（形容词后缀表示“充满…的”）\n\n所以 adventurous 就是“喜欢冒险的；敢于尝试的”。\n\n理解：具有这种特质的人或事物，总是愿意去探索未知、挑战极限，不会安于现状。比如一个 adventurous 的旅行者会去一些少有人至的地方探险。",
+        "example": [
+            "1. He is an adventurous traveler.",
+            "2. Despite the warnings about potential dangers, she has always been too adventurous and decided to explore the ancient cave system on her own."
+        ],
+        "first_time": "2024-12-20_10:12:04",
+        "last_time": "2024-12-30_15:00:26"
+    },
+    "advertise": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "bad"
+        ],
+        "word": "advertise",
+        "chines": "宣传",
+        "accuracy": [
+            18,
+            10,
+            0.55
+        ],
+        "tips": "广告打出来就要人知道：\n\nad（到）+ vert（转）+ ise（使）\n\n使转动到...使大家都知道，就像商家为了让大家都知晓他们的产品，到处打广告。\n\n也可以理解为：向大众宣传、推广的意思，每次看到advertise就想象一个人拿着喇叭到处宣传产品的画面。",
+        "example": [
+            "1. She decided to advertise her business on social media.",
+            "2. Despite the company's efforts to advertise their new product through various channels, including television, radio, and online platforms, sales remained stagnant."
+        ],
+        "first_time": "2024-12-20_10:12:28",
+        "last_time": "2024-12-30_15:00:38"
+    },
+    "advertisement": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "bad"
+        ],
+        "word": "advertisement",
+        "chines": "广告",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "广告。记忆方法：可以拆分成“ad”（广告的简称）+ “ver”（很像 very，表示很多、非常）+ “tise”（读音接近“特此”）。所以，可以理解为“特别多的、特别此地的 ad”，也就是“广告”。",
+        "example": [
+            "1. The company released a new advertisement.",
+            "2. Despite the fact that the advertisement was designed to appeal to a wide audience, it seemed to have little impact on sales in regions where the product was less familiar."
+        ],
+        "first_time": "2024-12-20_10:12:45",
+        "last_time": "2024-12-30_14:21:07"
+    },
+    "advice": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "good"
+        ],
+        "word": "advice",
+        "chines": "建议",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "“advice”可以这样记忆：adv（先进的）+ice（冰），想象成向最先进的人取经，他们给的建议像冰一样冷静、清晰。这个词表示“建议；忠告”，是不可数名词。比如：Take my advice. （听我的建议。）",
+        "example": [
+            "1. He gave me some good advice.",
+            "2. The teacher offered a piece of valuable advice that has guided my decision-making process in both personal and professional contexts for years to come."
+        ],
+        "first_time": "2024-12-20_10:12:54",
+        "last_time": "2024-12-30_14:21:11"
+    },
+    "advisable": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "bad"
+        ],
+        "word": "advisable",
+        "chines": "明智的",
+        "accuracy": [
+            19,
+            9,
+            0.46
+        ],
+        "tips": "“advisable”这个词的意思是“值得做的，明智的”。你可以这样记：ad-（加强语气）+ vise（建议）+ -able（可以的）。所以，advisable 就是“值得听取建议去做”的意思。简单来说，就是做某事之前最好听听别人的意见，看看是否明智。比如，“It is advisable to wear a helmet when riding a bike.”（骑自行车时戴头盔是明智的）。",
+        "example": [
+            "1. It is advisable to wear warm clothes in winter.",
+            "2. Considering the unpredictable weather and challenging terrain of the mountain, it would be advisable for inexperienced hikers to join a guided tour or thoroughly research the trail conditions, necessary equipment, and safety measures before embarking on the journey."
+        ],
+        "first_time": "2024-12-20_10:13:18",
+        "last_time": "2024-12-30_15:00:47"
+    },
+    "advise": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-1",
+            "good"
+        ],
+        "word": "advise",
+        "chines": "劝告",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": null,
+        "example": [
+            "1. He advised me to study hard.",
+            "2. Considering the potential challenges and uncertainties ahead, he advised that we should develop a detailed and flexible plan to ensure our project could proceed smoothly under various circumstances."
+        ],
+        "first_time": "2024-12-20_10:13:33",
+        "last_time": "2024-12-30_14:21:29"
+    },
+    "affect": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "affect",
+        "chines": "影响",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. The storm affected our travel plans.",
+            "2. It is important to understand how environmental changes can affect the migration patterns of birds over long distances and across different habitats."
+        ],
+        "first_time": "2024-12-20_20:25:02",
+        "last_time": "2024-12-30_14:21:34"
+    },
+    "affection": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "bad"
+        ],
+        "word": "affection",
+        "chines": "钟爱",
+        "accuracy": [
+            11,
+            7,
+            0.63
+        ],
+        "tips": "“affection”可以拆解来记忆：af（向）+fec（做）+tion（状态），可以联想为向某人做出一种充满爱意的状态。它表示“喜爱；热爱；钟爱；影响”，是名词形式，用来形容人与人之间存在的正面的情感联系，比如亲情、爱情中都存在affection。",
+        "example": [
+            "1. Her affection for her pet dog is obvious.",
+            "2. Despite the arguments and difficulties they faced, his affection towards her never wavered, proving that true affection can endure through various challenges and changes over time."
+        ],
+        "first_time": "2024-12-20_20:25:25",
+        "last_time": "2024-12-30_14:21:38"
+    },
+    "afford": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "afford",
+        "chines": "提供承担的起",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. I can't afford this expensive car.",
+            "2. Although they wanted to travel around the world, they couldn't afford the time or money it would require, especially with three young children depending on them."
+        ],
+        "first_time": "2024-12-20_20:26:01",
+        "last_time": "2024-12-30_14:21:41"
+    },
+    "African": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "bad"
+        ],
+        "word": "African",
+        "chines": "非洲",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": " Afr[i]can，可以这样记：非洲（African）的“非”听起来像“i”，想象一个非洲人在说英语时强调“I（我）是非洲人”，把重点放在“i”上，这样有助于记住这个单词的拼写。另外，非洲是一个拥有丰富文化和自然资源的大洲，African指与非洲有关的人或事物，如非洲人、非洲音乐等。",
+        "example": [
+            "1. She is African.",
+            "2. The African continent boasts a rich diversity of cultures, languages, and traditions that have significantly influenced the world's arts and music scenes."
+        ],
+        "first_time": "2024-12-20_20:26:15",
+        "last_time": "2024-12-30_15:01:20"
+    },
+    "aftereffect": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "aftereffect",
+        "chines": "事后影响",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. The aftereffect of the medicine made her feel dizzy.",
+            "2. One significant aftereffect of the economic crisis was that people became much more cautious about spending money, leading to a long-term change in consumer behavior that influenced various industries and market trends."
+        ],
+        "first_time": "2024-12-20_20:26:41",
+        "last_time": "2024-12-30_14:22:15"
+    },
+    "against": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "good"
+        ],
+        "word": "against",
+        "chines": "反对",
+        "accuracy": [
+            7,
+            5,
+            0.7
+        ],
+        "tips": null,
+        "example": [
+            "1. She stood against the wall.",
+            "2. Despite being advised against it, he decided to go for a walk in the forest against the backdrop of the setting sun, lost in his thoughts against the tranquility of nature."
+        ],
+        "first_time": "2024-12-20_20:26:56",
+        "last_time": "2024-12-30_14:22:26"
+    },
+    "aggressive": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "bad"
+        ],
+        "word": "aggressive",
+        "chines": "气势汹汹",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "这个词可以这样记：aggressive（激进的、好斗的），把“agg”想象成一只发怒的公鸡（公鸡打斗时很激进），后面“ressive”可以联想成它的样子和状态。也可以理解其含义为具有进攻性或积极进取的，在性格上表现出攻击性或者在行动上非常主动强势的人或行为就可以用它来描述。",
+        "example": [
+            "1. The aggressive dog barked loudly at the mailman. ",
+            "2. Despite her aggressive negotiation tactics, she managed to maintain a professional and respectful tone throughout the meeting with the international clients."
+        ],
+        "first_time": "2024-12-20_20:27:37",
+        "last_time": "2024-12-30_15:01:26"
+    },
+    "agree": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great",
+            "v"
+        ],
+        "word": "agree",
+        "chines": "(v)同意；达成一致",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I agree with you.",
+            "2. Although there are some minor details that still need discussion, I fundamentally agree with the overall direction of this project."
+        ],
+        "first_time": "2024-12-20_20:27:48",
+        "last_time": "2024-12-30_14:22:57"
+    },
+    "agreement": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great",
+            "n"
+        ],
+        "word": "agreement",
+        "chines": "(n)协议；同意",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. We reached an agreement on the project timeline.",
+            "2. Despite lengthy negotiations and several compromises, an agreement was finally reached between the company and the labor union regarding the new working conditions and salary increments."
+        ],
+        "first_time": "2024-12-20_20:28:21",
+        "last_time": "2024-12-30_14:23:04"
+    },
+    "agriculture": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "bad"
+        ],
+        "word": "agriculture",
+        "chines": "农业",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "这个词可以这样记：\n\n**agri-** 来源于拉丁语，表示“田地”，**culture** 表示“耕作、培育”。你可以想象农民在田地里辛勤劳作的画面。\n\n简单来说，\"agriculture\" 就是与种植农作物、养殖动物等一切与田地和农场有关的活动。记住：有田（agri）有养（culture）就是农业。\n\n关联记忆：\n田地 + 耕种 = 农业\n\n这是一个非常重要的词根组合，掌握了这个，类似单词如agrarian(农业的)也容易理解了。",
+        "example": [
+            "1. Agriculture is important for food production.",
+            "2. The development of sustainable agriculture practices has become increasingly crucial as the global population continues to grow and climate change poses new challenges to traditional farming methods."
+        ],
+        "first_time": "2024-12-20_20:28:47",
+        "last_time": "2024-12-30_15:01:33"
+    },
+    "ahead": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "ahead",
+        "chines": "提前的领先的",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. She walked ahead of the group.",
+            "2. Looking ahead to the future, we must consider the potential challenges and opportunities that lie in store for us."
+        ],
+        "first_time": "2024-12-20_20:29:06",
+        "last_time": "2024-12-30_14:23:56"
+    },
+    "aid": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "aid",
+        "chines": "援助",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The doctor gave aid to the injured people.",
+            "2. International organizations often provide humanitarian aid to countries affected by natural disasters, conflicts, or economic crises, which can include food supplies, medical assistance, and temporary shelter setups to support those in need."
+        ],
+        "first_time": "2024-12-20_20:29:16",
+        "last_time": "2024-12-30_14:23:58"
+    },
+    "aim": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "aim",
+        "chines": "目的是",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He aims to finish his homework before dinner.",
+            "2. Despite the challenging economic environment and fierce competition in the market, the company still aims to increase its market share by introducing innovative products and enhancing customer service experience."
+        ],
+        "first_time": "2024-12-20_20:29:36",
+        "last_time": "2024-12-30_14:24:01"
+    },
+    "airborne": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "bad"
+        ],
+        "word": "airborne",
+        "chines": "飞行中的",
+        "accuracy": [
+            10,
+            6,
+            0.59
+        ],
+        "tips": "理解这个单词的关键是拆分：air（空气）+ borne（携带、承载）。\n\n形象记忆：想象一架飞机在空中飞行，它被空气托举着。“airborne”最初就是形容像飞机这样在空中被承载的状态。\n\n现在这个词有两层常用意思：\n1. 空中的，飞行的：比如空降部队(airborne troops)\n2. 空气传播的：比如空气传播的病菌(airborne germs)\n\n记住：凡是和“在空中”或者\"通过空气传播\"相关的，都可以用airborne来形容。",
+        "example": [
+            "1. The plane is airborne.",
+            "2. Once the drone became airborne, it transmitted real-time video footage back to the control center for analysis by the research team."
+        ],
+        "first_time": "2024-12-20_20:30:03",
+        "last_time": "2024-12-30_15:01:46"
+    },
+    "airport": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-2",
+            "great"
+        ],
+        "word": "airport",
+        "chines": "机场",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I went to the airport to pick up my friend.",
+            "2. Due to the heavy snowstorm, all flights at the airport were canceled, causing thousands of passengers to be stranded and creating significant disruptions to travel plans."
+        ],
+        "first_time": "2024-12-20_20:30:13",
+        "last_time": "2024-12-30_14:24:27"
+    },
+    "alcohol": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "bad"
+        ],
+        "word": "alcohol",
+        "chines": "酒",
+        "accuracy": [
+            16,
+            9,
+            0.55
+        ],
+        "tips": "酒精这个单词，你可以这样记：alc-o-hol，前面的alc可以联想到中文的“阿狸”，后面的hol可以联想为“喝嘞”。想象一个场景，阿狸（alc）喝嘞（hol）一口酒，就醉倒了，因为这是含有酒精（alcohol）的饮品。酒精就是一种能让人神经兴奋又抑制的物质，常见于酒类饮品中。",
+        "example": [
+            "1. He avoided alcohol for health reasons.",
+            "2. Despite the party's lively atmosphere, she chose not to consume any alcohol, preferring to remain fully aware and capable of driving home safely afterwards."
+        ],
+        "first_time": "2024-12-20_20:44:23",
+        "last_time": "2024-12-30_15:02:03"
+    },
+    "allow": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "great"
+        ],
+        "word": "allow",
+        "chines": "允许",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She allows her children to watch TV after homework.",
+            "2. The new policy allows employees to work from home if they have reliable internet access and a quiet working environment."
+        ],
+        "first_time": "2024-12-20_20:44:32",
+        "last_time": "2024-12-30_14:24:55"
+    },
+    "almost": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "great"
+        ],
+        "word": "almost",
+        "chines": "几乎",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She has almost finished her homework.",
+            "2. Although the project was extremely challenging and took much longer than expected, we have almost reached our goals after countless hours of hard work and dedication."
+        ],
+        "first_time": "2024-12-20_20:44:39",
+        "last_time": "2024-12-30_14:24:58"
+    },
+    "alone": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "great"
+        ],
+        "word": "alone",
+        "chines": "独自",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She enjoys spending time alone.",
+            "2. Despite being in a crowded room, he felt alone, as if an invisible barrier separated him from everyone else, making it difficult to connect or engage in conversations."
+        ],
+        "first_time": "2024-12-20_20:44:56",
+        "last_time": "2024-12-30_14:25:00"
+    },
+    "already": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "great"
+        ],
+        "word": "already",
+        "chines": "已经",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He has already finished his homework.",
+            "2. Although she was already aware of the challenging tasks ahead, she decided to embark on this new journey with unwavering determination and optimism that characterized her approach to life's adversities."
+        ],
+        "first_time": "2024-12-20_20:45:13",
+        "last_time": "2024-12-30_14:25:06"
+    },
+    "although": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "great"
+        ],
+        "word": "although",
+        "chines": "虽然尽管",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. Although it was late, she continued working.",
+            "2. Although the project faced numerous challenges and setbacks that could have led to its failure, the dedicated team managed to overcome each obstacle through perseverance and innovative thinking, ultimately achieving success."
+        ],
+        "first_time": "2024-12-20_20:45:35",
+        "last_time": "2024-12-30_14:25:10"
+    },
+    "amateur": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "bad"
+        ],
+        "word": "amateur",
+        "chines": "业户爱好者",
+        "accuracy": [
+            9,
+            5,
+            0.55
+        ],
+        "tips": "amateur 这个词可以这样记忆：\n\n“a”像一个钩子，“mateur”谐音“买它鱼”。想象一个钓鱼爱好者（业余爱好者），用钩子去钓喜欢的鱼，但因为是业余的，所以总是钓不到，只能花钱去买鱼（买它鱼）。\n\n理解：amateur 指的是在某一领域不是专业的人，也就是业余爱好者或者新手，他们通常是因为兴趣而参与某项活动，而不是以此为职业。",
+        "example": [
+            "1. He is an amateur photographer.",
+            "2. Despite being an amateur, she managed to produce a piece of work that could rival those created by professionals with years of experience."
+        ],
+        "first_time": "2024-12-20_20:45:58",
+        "last_time": "2024-12-30_15:02:06"
+    },
+    "amaze": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "great"
+        ],
+        "word": "amaze",
+        "chines": "使惊奇",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The magic show amazed the audience.",
+            "2. To my amazement, despite the heavy rain and difficult terrain, the team managed to complete the challenging hike ahead of schedule, with everyone arriving at the campsite safely and in high spirits."
+        ],
+        "first_time": "2024-12-20_20:46:16",
+        "last_time": "2024-12-30_14:25:42"
+    },
+    "ambition": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "bad"
+        ],
+        "word": "ambition",
+        "chines": "抱负",
+        "accuracy": [
+            11,
+            5,
+            0.44
+        ],
+        "tips": "ambition 可以拆分记忆为：am（爱慕）+ bi（比）+ tion（状态），想象成一个人非常爱慕某个目标，每天都想着要和别人比较，想要超越他人，这种状态就是有雄心、有抱负的状态。这个词表示野心；雄心；热望；抱负，理解为一个人内心有着强烈的渴望达成的目标。",
+        "example": [
+            "1. Her ambition is to become a doctor.",
+            "2. Despite coming from a modest background and facing numerous challenges, his unwavering ambition to make a difference in the world of technology eventually led him to found his own successful startup company."
+        ],
+        "first_time": "2024-12-20_20:46:41",
+        "last_time": "2024-12-30_15:21:27"
+    },
+    "ambitious": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "good"
+        ],
+        "word": "ambitious",
+        "chines": "有野心的",
+        "accuracy": [
+            11,
+            8,
+            0.72
+        ],
+        "tips": "ambitious 这个词可以这样记：\n\n ambitions 可以拆成 amb+i+tious。想象有个人为了实现自己的 ambition（抱负），每天早上起床都要对自己说 “I'm gonna be tious” （虽然这没有实际意义，但可以帮助记忆）。\n\n或者你可以直接联想野心家总是充满热情地追求目标，ambitious 形容的就是那种非常渴望成功、有强烈上进心的人。这个词通常带有一点褒义，但也可能暗示过于急切或贪婪。",
+        "example": [
+            "1. She has ambitious plans for her future.",
+            "2. Despite coming from a modest background, he harbored an ambitious dream of revolutionizing the renewable energy sector with his innovative inventions."
+        ],
+        "first_time": "2024-12-20_20:47:09",
+        "last_time": "2024-12-30_15:02:31"
+    },
+    "America": {
+        "wid": null,
+        "group": [
+            "2024-12-20",
+            "2024-12-20-3",
+            "bad"
+        ],
+        "word": "America",
+        "chines": "美国",
+        "accuracy": [
+            10,
+            6,
+            0.59
+        ],
+        "tips": "美洲大陆简称为“美”，A打头，merica跟在后面。你可以联想为：A级（顶级）的美丽大陆——美洲。这个单词表示美国，也泛指美洲地区，在地理大发现后，这里逐渐成为多元文化的融合地。",
+        "example": [
+            "1. I love the diverse culture in America.",
+            "2. Despite its relatively short history, America has developed a unique cultural identity that influences various aspects of life around the globe, from music and film to technology and politics."
+        ],
+        "first_time": "2024-12-20_20:47:35",
+        "last_time": "2024-12-30_15:02:35"
+    },
+    "among": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "good"
+        ],
+        "word": "among",
+        "chines": "其中之一",
+        "accuracy": [
+            10,
+            8,
+            0.79
+        ],
+        "tips": null,
+        "example": [
+            "1. She is among the top students in her class.",
+            "2. Despite being chosen among hundreds of applicants, he remained remarkably humble and continued to work diligently as if his success was merely a matter of luck."
+        ],
+        "first_time": "2024-12-21_09:46:43",
+        "last_time": "2024-12-30_14:26:39"
+    },
+    "amount": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "great"
+        ],
+        "word": "amount",
+        "chines": "数量",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. The amount of water in the bottle is low.",
+            "2. The total amount of time spent on preparing for the presentation, including research, writing, and rehearsal, was approximately twenty hours."
+        ],
+        "first_time": "2024-12-21_09:46:53",
+        "last_time": "2024-12-30_14:26:50"
+    },
+    "analogical": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "analogical",
+        "chines": "相似的",
+        "accuracy": [
+            17,
+            9,
+            0.52
+        ],
+        "tips": "类比的、比喻的。这个词可以这样记：ana- 表示“相同”，-log 表示“词、说理”，-ical 形容词后缀，按照相同的方式来说理，也就是通过类比、比喻的方式来表达，所以是“类比的、比喻的”。",
+        "example": [
+            "1. This analogical method helps students understand new concepts.",
+            "2. By using an analogical approach, researchers were able to draw parallels between the behavior of particles in quantum mechanics and the movements of planets in classical physics, thereby providing a more intuitive framework for students to grasp complex theories."
+        ],
+        "first_time": "2024-12-21_09:47:09",
+        "last_time": "2024-12-30_14:27:00"
+    },
+    "ancient": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "ancient",
+        "chines": "古代",
+        "accuracy": [
+            16,
+            9,
+            0.55
+        ],
+        "tips": "联想法：你可以把“ancient”拆分成“an+cient”，“an”可以联想成“一（个/位）”，“cient”发音类似“仙特”。想象一位仙人特地从古代穿越而来，他就是来自ancient（古代的）时代。\n\n理解法：“ancient”表示古代的、远古的。这个词用来描述很久以前的事物，比如古代文明、古老的建筑等。当你看到这个单词时，脑海里就可以浮现出那些古老而神秘的画面，像埃及金字塔、中国长城这些历经岁月沉淀的古老事物。",
+        "example": [
+            "1. The ancient temple stands near the river.",
+            "2. Scholars have long debated the origins of ancient civilizations that flourished in the fertile river valleys, leaving behind intriguing artifacts and structures which continue to puzzle modern archaeologists."
+        ],
+        "first_time": "2024-12-21_09:47:17",
+        "last_time": "2024-12-30_15:02:39"
+    },
+    "anger": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "anger",
+        "chines": "怒火",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "anger 表示“愤怒，生气”。可以这样记忆：ang（类似汉语拼音的“盎”，想象成一个人张大嘴巴在怒吼）+ er（人），想象一个人非常愤怒地在怒吼的画面。",
+        "example": [
+            "1. His anger grew as he waited in the long line.",
+            "2. Despite her initial anger at the misunderstanding, she eventually forgave him and they were able to have a constructive conversation about how to improve their communication in the future."
+        ],
+        "first_time": "2024-12-21_09:47:28",
+        "last_time": "2024-12-30_14:27:22"
+    },
+    "anniversary": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "anniversary",
+        "chines": "周年纪念日",
+        "accuracy": [
+            16,
+            9,
+            0.55
+        ],
+        "tips": "理解这个单词的关键是拆分：anni + versary。\n\n- “anni”来自拉丁语，意思是“年”，就像我们说的annual（每年的）。\n- “versary”表示“返回、周年”。\n\n所以anniversary就是指年复一年回来的日子，特指“周年纪念日”。你可以联想为：每过一年就回到这个特别的日子，比如结婚周年、建城周年等。",
+        "example": [
+            "1. We celebrated our wedding anniversary with a special dinner.",
+            "2. On the 75th anniversary of the organization, there was a grand ceremony featuring speeches from notable guests and a retrospective exhibition showcasing significant milestones achieved over the decades."
+        ],
+        "first_time": "2024-12-21_09:47:44",
+        "last_time": "2024-12-30_15:02:47"
+    },
+    "announcement": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad",
+            "n"
+        ],
+        "word": "announcement",
+        "chines": "(n)公告；通知",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "这个词可以这样记：ann-ounce-ment。首先，“ann”可以让你想到每年（annual），意味着重复或公开的事情；“ounce”虽然在这里没有直接关联，但你可以想象为一点点的消息或者信息。结合起来，announcement就是一点点被公开或发布的信息，也就是“公告；宣告；声明”。每次想到这个单词，就想象一点重要的消息被公开的情景。",
+        "example": [
+            "1. The company made an announcement about the new policy.",
+            "2. Despite the confusion among employees, the management insisted on issuing the announcement without providing detailed explanations or addressing potential concerns."
+        ],
+        "first_time": "2024-12-21_09:47:59",
+        "last_time": "2024-12-30_15:03:01"
+    },
+    "annoying": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "annoying",
+        "chines": "使愤怒的",
+        "accuracy": [
+            15,
+            9,
+            0.59
+        ],
+        "tips": "这个词可以这样记：an（一）noy（闹）ing（着），一大群人在闹着，真是烦人，所以是“恼人的；令人厌烦的”。每次想到很多人在一起喧闹不停，就很容易记住这个单词了。",
+        "example": [
+            "1. This constant noise is really annoying.",
+            "2. Despite the fact that the persistent and annoying sound from the construction site next door has been disrupting my concentration for days, I still haven't found an effective way to block it out."
+        ],
+        "first_time": "2024-12-21_09:48:32",
+        "last_time": "2024-12-30_14:28:25"
+    },
+    "anonymous": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "anonymous",
+        "chines": "匿名的",
+        "accuracy": [
+            17,
+            9,
+            0.52
+        ],
+        "tips": "这个词可以这样记：an（一个）+ onymous（有名字的），想象成“有这么一个人，但没有名字”，也就是“匿名的”。它表示“匿名的；无名的”，比如在网络环境中，用户不使用真实姓名而用匿名身份发表评论或进行交流。",
+        "example": [
+            "1. He posted the comment as an anonymous user.",
+            "2. Due to the sensitive nature of the information, the whistleblower preferred to remain anonymous, fearing retaliation from those implicated in the report."
+        ],
+        "first_time": "2024-12-21_09:48:45",
+        "last_time": "2024-12-30_15:04:27"
+    },
+    "anxiety": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "anxiety",
+        "chines": "焦虑",
+        "accuracy": [
+            17,
+            9,
+            0.52
+        ],
+        "tips": "焦虑（anxiety）可以这样记：想象一个人在考试前（an exam），心里特别七上八下（an-exam-ity），因为害怕考不好而感到不安，这种不安和担忧的情绪就是焦虑。当你遇到可能带来压力的情境时，就会产生类似考试前的这种感觉。",
+        "example": [
+            "1. She feels anxiety before the exam.",
+            "2. Despite trying various methods to alleviate her anxiety, she still finds herself overwhelmed by the constant worry and unease that has become a part of her daily life."
+        ],
+        "first_time": "2024-12-21_09:49:16",
+        "last_time": "2024-12-30_15:04:36"
+    },
+    "anxious": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "bad"
+        ],
+        "word": "anxious",
+        "chines": "焦虑的",
+        "accuracy": [
+            16,
+            9,
+            0.55
+        ],
+        "tips": "理解记忆法：\n\nanxious = an(x) + ious\n- 想象一个人面对很多X（未知、困难等）的事情\n- 这些X让他内心充满焦虑(ious有表示“充满...的”意思)\n\n核心要点：\n1. 表示\"焦虑的，担忧的\"\n2. 常用搭配：be anxious about (对...感到焦虑)\n3. 同根词：anxiety (名词形式，焦虑)\n\n生活场景记忆：\n想象一个人对着一堆待办事项打叉(x)，越想越焦虑，就是anxious的状态。\n\n补充说明：\n这个词经常用来形容对未来不确定的事情感到不安。记住它表达的是一种持续的心理状态，而不是短暂的情绪波动。",
+        "example": [
+            "1. She feels anxious before the exam.",
+            "2. Despite trying to prepare thoroughly, he still felt anxious about whether he had overlooked some crucial details in his presentation."
+        ],
+        "first_time": "2024-12-21_09:49:31",
+        "last_time": "2024-12-30_15:04:40"
+    },
+    "anybody": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "great"
+        ],
+        "word": "anybody",
+        "chines": "任何人",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. Anybody can learn to play the guitar with enough practice.",
+            "2. If anybody needs help understanding the complex theories we've discussed in class, I will be available during office hours to go over them in more detail."
+        ],
+        "first_time": "2024-12-21_09:49:40",
+        "last_time": "2024-12-30_14:29:36"
+    },
+    "anyhow": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "great"
+        ],
+        "word": "anyhow",
+        "chines": "无论如何",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. Anyhow, we should try our best.",
+            "2. Anyhow, despite the heavy rain and long distance, she insisted on going there by bike to meet her old friend who she hadn't seen for years."
+        ],
+        "first_time": "2024-12-21_09:49:48",
+        "last_time": "2024-12-30_14:29:39"
+    },
+    "anyone": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "great"
+        ],
+        "word": "anyone",
+        "chines": "任何人",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. Anyone can learn to play the guitar with enough practice.",
+            "2. Anyone who is interested in pursuing a career in science, technology, engineering, or mathematics should consider exploring various educational resources and opportunities available online or through community programs."
+        ],
+        "first_time": "2024-12-21_09:50:01",
+        "last_time": "2024-12-30_14:29:41"
+    },
+    "anywhere": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "great"
+        ],
+        "word": "anywhere",
+        "chines": "任何地方",
+        "accuracy": [
+            8,
+            8,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. You can park anywhere in this lot.",
+            "2. Despite the strict rules at home, she felt that she could express herself anywhere else, especially in environments that promoted freedom of speech and individuality."
+        ],
+        "first_time": "2024-12-21_09:50:20",
+        "last_time": "2024-12-30_14:29:45"
+    },
+    "apart": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-1",
+            "great"
+        ],
+        "word": "apart",
+        "chines": "分离",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. They live apart.",
+            "2. Despite the fact that they used to be best friends, they have grown apart over the years due to their different life choices and experiences."
+        ],
+        "first_time": "2024-12-21_09:50:31",
+        "last_time": "2024-12-30_14:29:55"
+    },
+    "appartment": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "great"
+        ],
+        "word": "appartment",
+        "chines": "公寓",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. I live in a small appartment.",
+            "2. The appartment, which is located in the heart of the city and surrounded by various convenient facilities, has become my cozy little world where I enjoy every moment of my life."
+        ],
+        "first_time": "2024-12-21_10:13:29",
+        "last_time": "2024-12-30_14:29:59"
+    },
+    "apelike": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "great"
+        ],
+        "word": "apelike",
+        "chines": "像个猴一样",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The apelike creature swung from tree to tree.",
+            "2. Despite its apelike appearance with long arms and dense fur, the creature exhibited behaviors that suggested a closer relationship to early human ancestors than to modern apes."
+        ],
+        "first_time": "2024-12-21_10:14:53",
+        "last_time": "2024-12-30_14:30:05"
+    },
+    "apologetic": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "apologetic",
+        "chines": "道歉",
+        "accuracy": [
+            15,
+            7,
+            0.46
+        ],
+        "tips": "这个词由“apology（道歉）”和后缀“-etic”组成，可以理解为“有歉意的”。想象一个人做出道歉时的样子，他可能是感到很抱歉、羞愧或者不安的，所以当你看到“apologetic”时，就联想到一个正在诚恳道歉的人，这有助于你记住它的意思：歉意的；表示遗憾的。",
+        "example": [
+            "1. He gave an apologetic smile.",
+            "2. Despite being unusually apologetic and remorseful, she couldn't fully make up for the consequences her actions had brought upon the team."
+        ],
+        "first_time": "2024-12-21_10:15:13",
+        "last_time": "2024-12-30_15:04:53"
+    },
+    "appeal": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "appeal",
+        "chines": "上诉；有吸引力",
+        "accuracy": [
+            10,
+            6,
+            0.59
+        ],
+        "tips": "appeal 记忆方法：\n\n1. 分解记忆：ap（向...）+ peal（钟声，呼叫）\n想象成“向某人呼叫/请求”，引申为呼吁、上诉。\n\n2. 联想记忆：\n把“上诉”理解为\"有吸引力地要求改变判决\"\n所以 appeal 既有“上诉”也有“有吸引力”的意思\n\n3. 实用场景记忆：\n- 法律场景：提出上诉 (legal appeal)\n- 日常场景：有吸引力 (appeal to sb)\n\n这样记一个单词就同时掌握了两个重要用法：\n1) 上诉/申诉\n2) 吸引力/呼吁\n\n建议通过造句加深印象：\n\"The beautiful scenery has great appeal to tourists.\"\n(美丽的风景对游客很有吸引力。)\n\n希望这个解释能帮你记住并正确使用 appeal 这个词。",
+        "example": [
+            "1. She made an appeal for help.",
+            "2. The defendant's lawyer decided to make an appeal to a higher court, arguing that there were procedural errors in the original trial that could have significantly influenced the jury's decision."
+        ],
+        "first_time": "2024-12-21_10:15:36",
+        "last_time": "2024-12-30_15:17:28"
+    },
+    "appear": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "appear",
+        "chines": "出现",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "“appear”可以拆分记忆为“ap+pear”，想象你正在找某人，然后这个人突然从一个梨（pear）后面出现了，这就记住了“appear”有“出现”的意思。它还可以表示“似乎，看起来”，比如“He appears to be ill.”（他看起来生病了）。",
+        "example": [
+            "1. She will appear on the stage soon.",
+            "2. Despite the heavy rain, the rainbow appeared in the sky after the storm, bringing a sense of relief and beauty to those who witnessed it."
+        ],
+        "first_time": "2024-12-21_10:15:49",
+        "last_time": "2024-12-30_14:31:20"
+    },
+    "appearance": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "appearance",
+        "chines": "外观",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "外貌，出现。可以这样记：a person's face and hair is their appearance（一个人的脸和头发就是他们的外貌）。或者用谐音记忆法：“艾皮瑞恩斯”，想象一个很注重自己外貌的人在照镜子时说“艾皮瑞恩斯”，从而联想到外貌这个词。",
+        "example": [
+            "1. Her appearance at the party was unexpected.",
+            "2. Despite his nervousness, he maintained a calm appearance while delivering the speech, which impressed the audience greatly."
+        ],
+        "first_time": "2024-12-21_10:16:01",
+        "last_time": "2024-12-30_14:31:33"
+    },
+    "applicant": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "applicant",
+        "chines": "申请人",
+        "accuracy": [
+            10,
+            6,
+            0.59
+        ],
+        "tips": "申请人 = apply（申请）+ ant（表示人）\n\n记忆方法：想象一个蚂蚁（ant）在申请（apply）工作，它就是申请人。\n\n每次看到applicant就想到那只勤劳的小蚂蚁在填写申请表的画面。这样是不是容易记多了？",
+        "example": [
+            "1. The applicant filled out the form carefully.",
+            "2. After reviewing the qualifications of the applicant, the committee decided to invite her for an interview despite her lacking some of the preferred experience listed in the job description."
+        ],
+        "first_time": "2024-12-21_10:16:18",
+        "last_time": "2024-12-30_15:05:40"
+    },
+    "application": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "application",
+        "chines": "申请申请书",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "application可以拆分来记忆：app（应用，像手机上的APP）+ lication（后缀表示动作、行为、状态），可以简单理解为“应用的动作或者行为”，也就是“申请；应用程序”的意思。比如我们常说的申请签证，就是向相关部门“申请”；而手机上的各种APP，就是“应用程序”。",
+        "example": [
+            "1. She submitted an application for the job.",
+            "2. After days of meticulous preparation, he finally completed the college application, which included essays, recommendation letters, and a comprehensive list of his extracurricular activities and achievements."
+        ],
+        "first_time": "2024-12-21_10:16:46",
+        "last_time": "2024-12-30_14:32:01"
+    },
+    "apply": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "great"
+        ],
+        "word": "apply",
+        "chines": "应用",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I will apply for the job.",
+            "2. Before you apply for a visa, make sure you have all the necessary documents and information required by the embassy."
+        ],
+        "first_time": "2024-12-21_10:17:03",
+        "last_time": "2024-12-30_14:32:03"
+    },
+    "appoint": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "bad"
+        ],
+        "word": "appoint",
+        "chines": "任命",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "记忆方法：“ap-point”，可以拆分为“ap”和“point”。\n\n- “ap”可以联想为“a person”，一个人。\n- “point”有指向、指定的意思。\n\n合起来就可以想象成一个人去指定、安排某事或者某人，所以“appoint”就有任命、指派；约定的意思。比如：He was appointed as the team leader.（他被任命为团队领导。）这样通过拆分和联想来帮助你加深记忆。",
+        "example": [
+            "1. She will appoint a new manager for the department.",
+            "2. After careful consideration of all the candidates' qualifications and experiences, the board decided to appoint an external consultant who has extensive industry expertise and a proven track record to lead this critical project."
+        ],
+        "first_time": "2024-12-21_10:17:15",
+        "last_time": "2024-12-30_15:05:44"
+    },
+    "appointment": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "great"
+        ],
+        "word": "appointment",
+        "chines": "约定",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I have an appointment at 3 PM.",
+            "2. Due to the unexpected heavy snow, the important business appointment scheduled for this afternoon had to be rescheduled to next week, which caused some inconvenience to both parties' subsequent arrangements."
+        ],
+        "first_time": "2024-12-21_10:17:34",
+        "last_time": "2024-12-30_14:32:20"
+    },
+    "appreciate": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "v",
+            "bad"
+        ],
+        "word": "appreciate",
+        "chines": "(v)欣赏；重视；感激",
+        "accuracy": [
+            12,
+            6,
+            0.49
+        ],
+        "tips": "“appreciate”这个单词可以这样记忆：ap-pre-ciate，可以联想为“阿婆（ap）爬（pre）山感谢（ciate）”，想象一位阿婆好不容易爬上山，非常感谢帮助她的人，这就表达了感激、欣赏的意思。这个词的核心意思是表示对某事物或某人的积极认可和感谢。\n\n在日常中，“appreciate”不仅仅表示感谢，还包含了理解和重视的意味。比如当你欣赏一幅画时，你是在精神层面给予它正面的评价，这就是“appreciate”。",
+        "example": [
+            "1. I appreciate your help.",
+            "2. I really appreciate the effort you have made to organize this event, which has brought everyone so much joy and also provided a good opportunity for us to communicate with each other."
+        ],
+        "first_time": "2024-12-21_10:19:19",
+        "last_time": "2024-12-30_15:23:19"
+    },
+    "appreciation": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "good",
+            "n"
+        ],
+        "word": "appreciation",
+        "chines": "(n)欣赏：了解；增值",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": "“appreciation”可以这样记忆：ap-pre-ci-ation，前面的“ap”可以联想到“add plus”，即增加、添加正面积极的意思；“pre”提前，有准备去接受好的事物；“ci”可以联想到“see”看到；“ation”是名词后缀。整体意思就是提前准备好以积极的态度看到某物的价值，也就是“欣赏、感激”的意思。当别人帮助了你或者你看到了一件美好的事物时，你所产生的积极情绪和对事物价值的认可就是“appreciation”。",
+        "example": [
+            "1. I have great appreciation for your help.",
+            "2. Her deep appreciation of the complexities of human behavior is reflected in the nuanced characters she creates in her novels."
+        ],
+        "first_time": "2024-12-21_10:19:41",
+        "last_time": "2024-12-30_14:32:58"
+    },
+    "appreciative": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-2",
+            "adj",
+            "bad"
+        ],
+        "word": "appreciative",
+        "chines": "(adj)欣赏的；感激的",
+        "accuracy": [
+            12,
+            6,
+            0.49
+        ],
+        "tips": "“appreciative”表示“感激的；欣赏的”。\n\n记忆方法：“appre”可以联想为“接受”，“ci”像“看”，“ative”是形容词后缀。想象你接受了别人的帮助或者作品，然后你看它的时候充满了感激和欣赏，就是“appreciative”。",
+        "example": [
+            "1. She gave an appreciative smile.",
+            "2. The audience listened with appreciative attention, nodding their heads and laughing at the jokes in a way that suggested they were thoroughly enjoying the performance."
+        ],
+        "first_time": "2024-12-21_10:20:02",
+        "last_time": "2024-12-30_15:18:00"
+    },
+    "appropricate": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-3",
+            "bad",
+            "adj"
+        ],
+        "word": "appropricate",
+        "chines": "(adj)合适的；恰当的",
+        "accuracy": [
+            20,
+            7,
+            0.34
+        ],
+        "tips": "这个词应该是appropriate，让我来教你简单记忆：\n\n1. 分解记忆：\nap + propri + ate\n\"适当地吃\"(ate)要选择\"恰当的\"(propri)东西\n\n2. 联想记忆：\n想象一个场景：\"适当的行为\"就像吃饭时要选择合适的食物一样。对待不同的场合要用appropriate的方式。\n\n3. 词义：\nadj. 合适的；恰当的；适当的\nv. 拨出(款项)；挪用\n\n4. 常用搭配：\nIt is appropriate to... (做某事是恰当的)\nappropriate for...(对...来说是适当的)\n\n记住：这个词常用于正式场合，形容行为、着装、言语等是否得体合适。",
+        "example": [
+            "1. The teacher told us to appropricate the books from the library carefully.",
+            "2. In order to ensure the smooth progress of the project, it is necessary to appropricate sufficient funds and resources in advance, which requires a detailed assessment of potential risks and needs. ",
+            "",
+            "请注意：\"appropricate\"这个单词实际上可能是\"appropriate\"的误拼，上述例句基于其正确拼写形式\"appropriate\"进行编写。如果你指的是其他含义，请进一步说明。"
+        ],
+        "first_time": "2024-12-21_10:43:38",
+        "last_time": "2024-12-30_15:22:00"
+    },
+    "approve": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-3",
+            "bad",
+            "v"
+        ],
+        "word": "approve",
+        "chines": "(v)赞同；同意；批准；通过",
+        "accuracy": [
+            15,
+            7,
+            0.46
+        ],
+        "tips": "理解记忆法：\n\napprove 表示“批准，同意”，可以这样记：ap（加强语气）+ prove（证明），就好像一件事情需要通过层层证明、审核，最终才能得到批准。比如在公司里，一个项目方案需要上级层层审核通过，也就是prove的过程，最后才能approve（批准）。",
+        "example": [
+            "1. The manager approved the plan.",
+            "2. Before we can proceed with the project, we need to ensure that all stakeholders have thoroughly reviewed and officially approved the detailed proposal, which includes not only the budget and timeline but also the specific objectives and expected outcomes."
+        ],
+        "first_time": "2024-12-21_10:45:27",
+        "last_time": "2024-12-30_15:07:51"
+    },
+    "arc": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-3",
+            "great"
+        ],
+        "word": "arc",
+        "chines": "弧线",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The rainbow formed a beautiful arc in the sky.",
+            "2. As the old bridge was being demolished, the workers marveled at how its elegant arc had spanned the river for over a century, withstanding countless floods and storms."
+        ],
+        "first_time": "2024-12-21_10:45:35",
+        "last_time": "2024-12-30_14:34:25"
+    },
+    "area": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-3",
+            "great"
+        ],
+        "word": "area",
+        "chines": "地区",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. This area is famous for its beautiful beaches.",
+            "2. The research team conducted a detailed study of the economic impact on this particular area, taking into account various factors such as local industries, population changes, and environmental influences over the past decade."
+        ],
+        "first_time": "2024-12-21_10:45:42",
+        "last_time": "2024-12-30_14:34:28"
+    },
+    "argue": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-3",
+            "good"
+        ],
+        "word": "argue",
+        "chines": "争吵",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": null,
+        "example": [
+            "1. They argue about politics.",
+            "2. Despite the fact that they generally get along well, they often argue over trivial matters such as how to organize the kitchen or which route is the best to take when they go on a trip."
+        ],
+        "first_time": "2024-12-21_10:45:55",
+        "last_time": "2024-12-30_14:34:31"
+    },
+    "arise": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-3",
+            "great"
+        ],
+        "word": "arise",
+        "chines": "产生",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The sun arises in the east.",
+            "2. Despite numerous challenges that may arise during the project, the team is well-prepared to adapt and find solutions through collaboration and innovation."
+        ],
+        "first_time": "2024-12-21_10:46:48",
+        "last_time": "2024-12-30_15:07:54"
+    },
+    "arithmetic": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-4",
+            "bad"
+        ],
+        "word": "arithmetic",
+        "chines": "算数",
+        "accuracy": [
+            16,
+            7,
+            0.43
+        ],
+        "tips": "arithmetic 记忆方法：\n\n1. 分解记忆：arith - metic\n- “ari” 可以联想到“啊蕊”，“thme”联想到“数学”，“tic”像一个强调的后缀。想象成“啊蕊在研究数学”。\n\n2. 意思联想：\n- 这个词表示“算术；四则运算”。可以想象在做加减乘除这些基本运算时，脑袋里就会蹦出arithmetic这个词。\n\n3. 词形特点：\n- 单词中间有“metic”，和单词“methodic”（有条不紊的）有点像，算术也是需要按部就班、有条理地进行计算的过程。\n\n理解加深：\narithmetic是数学的一个基础分支，主要涉及数字的基本运算，是我们学习数学最初接触的内容，像1+1=2这样的简单等式就是最基础的arithmetic。",
+        "example": [
+            "1. She excels at arithmetic.",
+            "2. The teacher explained that in arithmetic, when you add two negative numbers, you get a larger negative number, which can sometimes be counterintuitive for students learning the concept for the first time."
+        ],
+        "first_time": "2024-12-21_10:50:11",
+        "last_time": "2024-12-30_15:18:46"
+    },
+    "arrange": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-4",
+            "great"
+        ],
+        "word": "arrange",
+        "chines": "安排",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She will arrange a meeting with him.",
+            "2. In order to ensure everything goes smoothly, she spends a lot of time to arrange all the details of the conference, including booking the venue, sending out invitations, and preparing materials."
+        ],
+        "first_time": "2024-12-21_10:50:20",
+        "last_time": "2024-12-30_14:35:18"
+    },
+    "arrangement": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-4",
+            "bad"
+        ],
+        "word": "arrangement",
+        "chines": "安排",
+        "accuracy": [
+            14,
+            7,
+            0.49
+        ],
+        "tips": "arrangement 可以这样记：想象一个场景，你正在安排（arrange）一场重要的会议，这个会议的布置和规划就是 arrangement。它表示“安排、布置、计划”。比如会议座位的安排、婚礼的布置等，都是 arrangement。每次想到安排事情或者看到别人在布置场景时，就能联想到这个词。",
+        "example": [
+            "1. She made an arrangement for the meeting.",
+            "2. The detailed arrangement, which included transportation, accommodation, and scheduling for the entire conference, was meticulously planned by the organizing committee over several months."
+        ],
+        "first_time": "2024-12-21_10:51:35",
+        "last_time": "2024-12-30_14:35:27"
+    },
+    "arrival": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-4",
+            "bad"
+        ],
+        "word": "arrival",
+        "chines": "到达",
+        "accuracy": [
+            14,
+            7,
+            0.49
+        ],
+        "tips": "联想记忆法：可以将“arrival”拆分为“arrive”(到达)和“-al”。“arrive”是到达的意思，加上“-al”这个后缀表示与前面的词有关，所以“arrival”就可以理解为“到达”的动作或者状态，也就是“到来、到达”。\n\n理解加深记忆：“arrival”指的是到达某地的时间点或行为。例如：航班的到达（The arrival of the flight），它强调的是一个从出发到最终达到目的地这样一个过程的结束。",
+        "example": [
+            "1. The arrival of the train was delayed by an hour.",
+            "2. Despite the heavy snowstorm and treacherous road conditions, the much-anticipated arrival of the emergency medical supplies brought a glimmer of hope to the isolated mountain village."
+        ],
+        "first_time": "2024-12-21_10:51:47",
+        "last_time": "2024-12-30_14:35:31"
+    },
+    "article": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-4",
+            "bad"
+        ],
+        "word": "article",
+        "chines": "文章",
+        "accuracy": [
+            10,
+            6,
+            0.59
+        ],
+        "tips": "记忆方法：Art-I-Cle，可以联想为“艺术一册”，文章、论文这些就像是一本本的艺术册子。\n\n理解加深：article在作为“文章；论说文”讲时，就像是你在报纸、杂志或者学术期刊上看到的一篇篇独立的内容，它有明确的主题和结构。另外它还有“冠词”的意思，在英语语法里，冠词是位于名词前帮助说明名词含义的词，如a, an, the等。",
+        "example": [
+            "1. This article is very interesting.",
+            "2. The article, which was published in a prestigious scientific journal, provides an in-depth analysis of the effects of climate change on polar bear populations, drawing on data collected over several decades from various Arctic regions."
+        ],
+        "first_time": "2024-12-21_10:52:03",
+        "last_time": "2024-12-30_15:08:36"
+    },
+    "ash": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-4",
+            "good"
+        ],
+        "word": "ash",
+        "chines": "灰",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "“ash”这个单词表示“灰，灰烬”。记忆方法可以是：中文的“一烧（ash）”就变成了灰烬，想象一下东西燃烧后剩下的就是灰烬，这样就能把读音和意思联系起来。",
+        "example": [
+            "1. The ash floated down from the sky after the volcano erupted.",
+            "2. After the fireplace had burned through the night, a layer of cool ash covered the embers, indicating that the fire was finally extinguished and safe to approach."
+        ],
+        "first_time": "2024-12-21_10:52:18",
+        "last_time": "2024-12-30_15:08:39"
+    },
+    "aspect": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-9",
+            "bad"
+        ],
+        "word": "aspect",
+        "chines": "方向方面",
+        "accuracy": [
+            14,
+            7,
+            0.49
+        ],
+        "tips": "aspect 可以这样来记：\n\n想象一个场景，你站在一个建筑物前，从不同的位置去看它，看到的样子都不一样。aspect 就像是你看这个建筑物的某个“方面”或“面向”。它的词根 \"spec\" 表示看（比如inspect检查，spectator观众），而as-表示朝向。\n\n所以aspect最核心的意思就是：\n1. 外观、外表\n2. 方面、视角\n\n记住：aspect = 一个事物的某一面/外观\n\n例句强化：\n1. This building has a modern aspect. （这栋建筑外观很现代）\n2. Let's consider another aspect of the problem. （让我们考虑这个问题的另一个方面）\n\n这样理解后，aspect这个词就容易记住了。",
+        "example": [
+            "1. This aspect of the project needs more attention.",
+            "2. When considering the various aspects of the proposal, such as financial impact, environmental influence, and long-term benefits, we find that each aspect is interrelated and important."
+        ],
+        "first_time": "2024-12-21_11:22:15",
+        "last_time": "2024-12-30_15:08:46"
+    },
+    "assign": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-9",
+            "bad"
+        ],
+        "word": "assign",
+        "chines": "分配",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "assign 这个词可以这样记：\n\n“as”可以联想为“把…交给”，“sign”可以联想到签名、签署。结合起来理解为把任务或工作通过签署文件的形式交给某人去做，也就是“分配、指派”的意思。\n\n它表示分配、指定，比如老师给学生分配任务，公司领导给员工安排工作等场景都会用到这个词。",
+        "example": [
+            "1. The teacher assign homework to students every day.",
+            "2. In order to ensure the project progresses smoothly, the manager carefully consider various factors and finally decide to assign the most experienced staff to this critical task."
+        ],
+        "first_time": "2024-12-21_11:22:22",
+        "last_time": "2024-12-30_15:08:49"
+    },
+    "assignment": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-9",
+            "great"
+        ],
+        "word": "assignment",
+        "chines": "任务",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I finished my assignment early.",
+            "2. The teacher gave us a complex assignment that required not only a thorough understanding of the theory but also practical application through an extensive project involving multiple stages of research and development."
+        ],
+        "first_time": "2024-12-21_11:22:35",
+        "last_time": "2024-12-30_14:36:25"
+    },
+    "assistant": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-9",
+            "bad"
+        ],
+        "word": "assistant",
+        "chines": "助理",
+        "accuracy": [
+            11,
+            6,
+            0.54
+        ],
+        "tips": "你还没有给我单词呢，请提供一个具体的单词。",
+        "example": [
+            "1. The assistant helped the customer find the right product.",
+            "2. As an efficient and knowledgeable assistant, she not only supported the manager in daily tasks but also provided insightful suggestions during team meetings that significantly improved the workflow of the entire department."
+        ],
+        "first_time": "2024-12-21_11:22:41",
+        "last_time": "2024-12-30_15:08:58"
+    },
+    "associate": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-9",
+            "bad"
+        ],
+        "word": "associate",
+        "chines": "联系",
+        "accuracy": [
+            19,
+            7,
+            0.36
+        ],
+        "tips": "associate 这个词可以这样记：\n\n1. 拆分记忆：as-soc-i-ate，可以想象为“ass”（屁股）和“ciate”（看做seat座位），联想成：把你的屁股和某个特定的座位联系起来，暗示与某人或某事建立联系。\n\n2. 词义理解：\n   - 作动词时意为“联系、联想、交往”，比如我们说\"associate A with B\"就是把A和B联系在一起。\n   - 作名词时表示“同事、同伴”，指的是有共同工作或利益关系的人。\n\n3. 实用例句：\n- Don't associate with bad people. (不要和坏人交往。)\n- She associates success with hard work. (她认为成功与努力工作是分不开的。)\n\n记住这个单词的关键在于理解它表示“建立联系”的核心含义，无论是人与人的联系，还是事物之间的关联。",
+        "example": [
+            "1. I associate this song with my childhood.",
+            "2. In the business world, it's important to associate with people who can offer you valuable insights and opportunities that align with your career objectives."
+        ],
+        "first_time": "2024-12-21_11:22:57",
+        "last_time": "2024-12-30_15:22:13"
+    },
+    "attach": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-9",
+            "good"
+        ],
+        "word": "attach",
+        "chines": "附上",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": "“attach”可以拆分为“at+tach”，想象为“打到（at）它（tach）上”。比如attach一个文件到邮件上，就可以想象把文件“打到”邮件上。它的主要意思有附上、系上、使依恋等。你可以联想平时发邮件时附加文件的操作，每次想到附加文件，就是把文件“打到”邮件上的动作，这样就能加深记忆了。",
+        "example": [
+            "1. I will attach the file to the email.",
+            "2. Before sending the document, make sure to attach the most recent version of the report that contains all the updated financial data and project summaries."
+        ],
+        "first_time": "2024-12-21_11:23:20",
+        "last_time": "2024-12-30_15:09:29"
+    },
+    "attack": {
+        "wid": null,
+        "group": [
+            "2024-12-21",
+            "2024-12-21-11",
+            "v",
+            "great"
+        ],
+        "word": "attack",
+        "chines": "(v)攻击；抨击",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The cat attack the mouse.",
+            "2. In the early morning, under the cover of dense fog, the army launched a sudden attack on the enemy's fortress, which caught them off guard and led to a significant victory."
+        ],
+        "first_time": "2024-12-21_22:54:22",
+        "last_time": "2024-12-30_14:37:29"
+    },
+    "attain": {
+        "wid": null,
+        "group": [
+            "2024-12-23",
+            "2024-12-23-1",
+            "v",
+            "good"
+        ],
+        "word": "attain",
+        "chines": "(v)获得；实现",
+        "accuracy": [
+            10,
+            8,
+            0.79
+        ],
+        "tips": "attain 这个词可以这样记忆：\n\nat（向）+ tain（=tain 拿住）->朝着目标拿住->达到，获得\n\n理解：它的本意是经过努力之后“达到”或“获得”某物或目标。比如通过不断的努力去获得成功或者达到某个目标。这个单词强调的是一个需要付出努力的过程。",
+        "example": [
+            "1. She worked hard to attain her goals.",
+            "2. Despite numerous obstacles and challenges, he was able to attain a level of success that exceeded his wildest dreams."
+        ],
+        "first_time": "2024-12-23_19:50:00",
+        "last_time": "2024-12-30_15:19:07"
+    },
+    "attempt": {
+        "wid": null,
+        "group": [
+            "2024-12-23",
+            "2024-12-23-1",
+            "v",
+            "good"
+        ],
+        "word": "attempt",
+        "chines": "(v)企图；试图；尝试",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "attempt 可以这样记忆：at+tempt，at表示“在...处”，tempt可以联想为“尝试、诱惑”，合起来就是在某个地方或事情上进行尝试，所以是尝试、试图的意思。它强调的是一种努力去做的行为，但不保证一定能成功。\n\n例如：\nI attempted to solve the problem but failed.\n我试图解决这个问题，但没有成功。\n\nThe scientist made repeated attempts to improve the experiment.\n这位科学家反复尝试改进实验。",
+        "example": [
+            "1. She made an attempt to solve the puzzle.",
+            "2. Despite knowing the dangers, he decided to make one last attempt to climb the mountain before sunset, hoping that this time he would succeed where others had failed."
+        ],
+        "first_time": "2024-12-23_19:51:25",
+        "last_time": "2024-12-30_15:19:11"
+    },
+    "attend": {
+        "wid": null,
+        "group": [
+            "2024-12-23",
+            "2024-12-23-1",
+            "v",
+            "good"
+        ],
+        "word": "attend",
+        "chines": "(v)出席；参加",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "理解法：你可以把“attend”拆分成“at”（在）和“tend”（照料、关注），想象你在某个地方（at）给予关注（tend），也就是参与或出席某事。\n\n另外，“attend”有参加、出席的意思，比如参加会议、上课等。你也可以联想自己去参加一个重要的会议或者活动，需要全神贯注地参与其中，这样有助于记忆这个单词。",
+        "example": [
+            "1. I will attend the meeting.",
+            "2. If you want to attend the conference, you should register in advance and make sure to arrive on time according to the requirements of the organizer."
+        ],
+        "first_time": "2024-12-23_19:51:50",
+        "last_time": "2024-12-30_15:09:59"
+    },
+    "attendant": {
+        "wid": null,
+        "group": [
+            "2024-12-23",
+            "2024-12-23-1",
+            "n",
+            "adj",
+            "bad"
+        ],
+        "word": "attendant",
+        "chines": "(n,adj)服务员；伴随的",
+        "accuracy": [
+            15,
+            8,
+            0.52
+        ],
+        "tips": "这个词可以这样记：\n\nattend（参加、照顾）+ ant（蚂蚁）→ 像照顾蚂蚁一样细心陪伴的人\n\n解释：attendant 表示“服务员、工作人员”，就是那些像照顾小蚂蚁一样，细心周到地为你服务的人。比如飞机上的空乘人员、酒店的服务员等。\n\n它也指“随从、陪同人员”，想象你带着一群小蚂蚁（ant）去参加活动（attend），这些小蚂蚁就是你的随从。\n\n记忆要点：\n1. 与“照顾、陪伴”有关\n2. 通常是在特定场所提供服务的人员\n3. 也可以表示陪同、跟随的人",
+        "example": [
+            "1. The attendant helped me find the product in the store.",
+            "2. Despite the long flight delay, the courteous attendant consistently provided passengers with updates and ensured everyone's comfort to the best of their ability."
+        ],
+        "first_time": "2024-12-23_19:57:18",
+        "last_time": "2024-12-30_15:19:17"
+    },
+    "attentively": {
+        "wid": null,
+        "group": [
+            "2024-12-23",
+            "2024-12-23-1",
+            "adv",
+            "good"
+        ],
+        "word": "attentively",
+        "chines": "(adv)专心地；注意地",
+        "accuracy": [
+            12,
+            8,
+            0.66
+        ],
+        "tips": "这个单词可以这样记：\n\natten(t)ively，可以把括号中的t看成是two的意思，想象你用两只眼睛（two eyes）很专注地看着某样东西，就是全神贯注地、认真地意思。\"attentively\"表示以专心致志的态度做事情，强调注意力高度集中的状态。",
+        "example": [
+            "1. She listened to the lecture attentively.",
+            "2. While sitting in the crowded auditorium, she focused attentively on the speaker's every word, occasionally jotting down notes to ensure she wouldn't miss any key points."
+        ],
+        "first_time": "2024-12-23_19:58:43",
+        "last_time": "2024-12-30_15:22:33"
+    },
+    "attitude": {
+        "wid": null,
+        "group": [
+            "2024-12-23",
+            "2024-12-23-1",
+            "n",
+            "bad"
+        ],
+        "word": "attitude",
+        "chines": "(n)态度；看法",
+        "accuracy": [
+            13,
+            8,
+            0.61
+        ],
+        "tips": "“attitude”可以拆分记忆为“atti(tude)”——“态(度)”，前面的“atti”谐音“阿太”，想象一位严厉的阿太（老太太）在审视你做事的态度，这样就记住了“attitude”是表示对待事情的方式、态度的意思。",
+        "example": [
+            "1. Her positive attitude always brightens the room.",
+            "2. Despite facing numerous challenges, he maintained an optimistic attitude that helped him overcome adversities and achieve success in his career."
+        ],
+        "first_time": "2024-12-23_20:00:05",
+        "last_time": "2024-12-30_15:22:52"
+    },
+    "attract": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-1",
+            "v",
+            "bad"
+        ],
+        "word": "attract",
+        "chines": "(v)吸引；引起",
+        "accuracy": [
+            16,
+            7,
+            0.43
+        ],
+        "tips": "记忆方法：“吸”引“特”别的注意\n- “attract”的意思是吸引，可以联想为吸（用吸尘器吸东西）引（引导过来），比如磁铁吸引铁屑。\n- “特”别可以帮助你记住这个单词的发音，想象一个特别的人或事物把你的注意力吸引过去。",
+        "example": [
+            "1. The colorful flowers attract many bees.",
+            "2. In order to attract more tourists, the local government has decided to build a large amusement park near the scenic spot, and launched a series of preferential policies for visitors from different regions."
+        ],
+        "first_time": "2024-12-24_11:04:00",
+        "last_time": "2024-12-30_15:23:03"
+    },
+    "attraction": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-1",
+            "n",
+            "great"
+        ],
+        "word": "attraction",
+        "chines": "(n)吸引力；爱慕；引力",
+        "accuracy": [
+            8,
+            7,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. The attraction between the magnets is strong.",
+            "2. Despite the numerous attractions the city offers, from world-class museums to vibrant street life, it's the friendliness of the people that leaves the most lasting impression on visitors."
+        ],
+        "first_time": "2024-12-24_11:04:34",
+        "last_time": "2024-12-30_15:11:20"
+    },
+    "audience": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-1",
+            "n",
+            "bad"
+        ],
+        "word": "audience",
+        "chines": "(n)观众；听众",
+        "accuracy": [
+            17,
+            9,
+            0.52
+        ],
+        "tips": "理解记忆法：\n\n1. audience可以拆分为“au+di+ence”，“au”可以联想到“all（所有的）”，“di”联想到“see（看）”，“ence”是一个常见的名词后缀。想象成所有来看表演的人群，也就是观众。\n\n2. 从意思上加深记忆，audience本义是听（众），在现代语境中引申为任何接受信息的一群人，无论是听音乐会、看戏剧还是电视节目的人，都可以称为audience。",
+        "example": [
+            "1. The audience clapped after the performance.",
+            "2. Despite the long duration of the speech, the audience remained engaged and attentive throughout the entire event, which was quite unexpected for such a complex topic."
+        ],
+        "first_time": "2024-12-24_11:05:09",
+        "last_time": "2024-12-30_14:38:56"
+    },
+    "author": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-1",
+            "n",
+            "v",
+            "great"
+        ],
+        "word": "author",
+        "chines": "(n，v)作者；著作",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The author wrote a best-selling novel.",
+            "2. The renowned author, who had spent years researching the topic and traveling to various historical sites for inspiration, finally completed her magnum opus that would later earn critical acclaim and numerous literary awards."
+        ],
+        "first_time": "2024-12-24_11:05:42",
+        "last_time": "2024-12-30_14:39:01"
+    },
+    "authority": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-1",
+            "n",
+            "bad"
+        ],
+        "word": "authority",
+        "chines": "(n)官方；权威人士",
+        "accuracy": [
+            11,
+            7,
+            0.63
+        ],
+        "tips": "词根记忆法：author（作者，创造者）+ ity（表状态或性质）。\n\n理解记忆：有创造规则、制定规则的人或机构就拥有权威。比如政府、警察等执法机构就是authority，因为他们能制定和执行规则。\n\n联想场景：看到交警指挥交通，那就是authority在发挥作用。",
+        "example": [
+            "1. The police have the authority to maintain public order.",
+            "2. In many organizations, the authority to make final decisions rests with the board of directors, which carefully evaluates various factors and opinions before reaching a conclusion that aligns with the organization's long-term goals and values."
+        ],
+        "first_time": "2024-12-24_11:06:22",
+        "last_time": "2024-12-30_15:11:27"
+    },
+    "automobile": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-2",
+            "n",
+            "good"
+        ],
+        "word": "automobile",
+        "chines": "(n)汽车",
+        "accuracy": [
+            10,
+            8,
+            0.79
+        ],
+        "tips": "这个词由“auto”和“mobile”两部分组成。“auto”有自我、自动的意思，比如autopilot（自动驾驶）；“mobile”有移动的意思。所以automobile可以理解为“能自己移动的”，也就是汽车。你可以想象一辆车它自己就能动，不需要马拉，是不是很形象呢？",
+        "example": [
+            "1. I saw a red automobile on the street.",
+            "2. The rapid development of technology has greatly changed the design and function of the automobile, making it more environmentally friendly and intelligent."
+        ],
+        "first_time": "2024-12-24_11:10:54",
+        "last_time": "2024-12-30_15:11:33"
+    },
+    "available": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-2",
+            "adj",
+            "bad"
+        ],
+        "word": "available",
+        "chines": "(adj)可获得；可用的",
+        "accuracy": [
+            14,
+            9,
+            0.63
+        ],
+        "tips": "可用的、有空的。可以这样记：a+valuable（有价值的，熟悉的单词），想象你有一个宝贵的东西，当别人问你这个东西可不可以给他们用的时候，你就要判断这个宝贵的东西是否“可用”。也可以记为：ava（发音像“我有”）+ilable（时间），意思是我有时间，也就是我有空，表示人是可用的。",
+        "example": [
+            "1. The book is available in the library.",
+            "2. Despite the high demand for the product, it remains available in most stores across the country, which greatly facilitates consumers' purchases."
+        ],
+        "first_time": "2024-12-24_11:11:24",
+        "last_time": "2024-12-30_15:20:31"
+    },
+    "average": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-2",
+            "adj",
+            "good"
+        ],
+        "word": "average",
+        "chines": "(adj)平均的；普通的",
+        "accuracy": [
+            11,
+            8,
+            0.72
+        ],
+        "tips": "平均的、普通的\n\n记忆方法：a-ver-age，可以联想为“一（a）个人（ver像very的人形）年纪（age）”，想象一个人的年纪处于普通水平，不是特别大也不是特别小，就是平均年龄。\n\n理解加深：average表示在一组数据中处于中间水平的状态，也就是总和除以数量得出的结果，它不仅仅用于数字，在描述人的能力、事物的水平时也可以用到，比如an average student（普通学生）。",
+        "example": [
+            "1. The average temperature in July is 30 degrees Celsius.",
+            "2. When calculating the average score of the students, the teacher decided to exclude the highest and lowest scores to get a more accurate representation of the class's overall performance."
+        ],
+        "first_time": "2024-12-24_11:11:46",
+        "last_time": "2024-12-30_14:40:00"
+    },
+    "avoid": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-2",
+            "v",
+            "great"
+        ],
+        "word": "avoid",
+        "chines": "(v)避免；回避",
+        "accuracy": [
+            11,
+            9,
+            0.81
+        ],
+        "tips": "avoid 可以这样记：\n\n“a”可以想象成一个人张大了嘴，“void”谐音“避开”。所以，整个单词就可以想象成：一张大嘴在说“避开”。\n\n理解：avoid 表示避免、防止的意思。比如避免危险、避免错误等，就是让不好的事情不要发生或者让自己远离不好的处境。",
+        "example": [
+            "1. Avoid the crowded places.",
+            "2. In order to avoid any potential misunderstandings or conflicts in the future, it's important to communicate clearly and establish guidelines from the beginning."
+        ],
+        "first_time": "2024-12-24_11:12:02",
+        "last_time": "2024-12-30_15:12:06"
+    },
+    "award": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-2",
+            "n",
+            "bad"
+        ],
+        "word": "award",
+        "chines": "(n)奖品；奖金",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "记忆方法：“a”可以想象成“一”，“ward”可以联想成“ward（病房，也有守卫、看护之意）”，那么可以联想为：因为表现优秀，一个人被评为了“病房最佳守卫”，获得了一个奖励，这个奖励就是award。理解上，award作为名词表示奖品、奖金、奖励等；作为动词表示授予、判定的意思，比如公司可能会award（授予）员工一个特殊的奖项以表彰他们的贡献。",
+        "example": [
+            "1. She won an award for her excellent performance.",
+            "2. The company decided to give him an award in recognition of his outstanding contributions over the past decade, which have significantly propelled the business forward and established a solid foundation for future development."
+        ],
+        "first_time": "2024-12-24_11:12:33",
+        "last_time": "2024-12-30_15:12:16"
+    },
+    "aware": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-3",
+            "adj",
+            "great"
+        ],
+        "word": "aware",
+        "chines": "(adj)知道的；意识到",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I am aware of the problem.",
+            "2. Although she was not directly involved in the project, she remained aware of the progress and challenges that the team was facing."
+        ],
+        "first_time": "2024-12-24_11:16:20",
+        "last_time": "2024-12-30_15:12:24"
+    },
+    "background": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-3",
+            "n",
+            "great"
+        ],
+        "word": "background",
+        "chines": "(n)背景；经历",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. The artist painted a beautiful landscape as the background.",
+            "2. Despite having a background in computer science, she decided to pursue a career in teaching because she enjoyed interacting with students and felt passionate about education."
+        ],
+        "first_time": "2024-12-24_11:16:41",
+        "last_time": "2024-12-30_14:40:44"
+    },
+    "backward": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-3",
+            "great"
+        ],
+        "word": "backward",
+        "chines": "向后；反向",
+        "accuracy": [
+            8,
+            7,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. The clock moved backward an hour.",
+            "2. Despite the modern advancements in technology, some communities still look backward to traditional methods for solutions to contemporary issues."
+        ],
+        "first_time": "2024-12-24_11:16:58",
+        "last_time": "2024-12-30_14:40:55"
+    },
+    "badly": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-3",
+            "adv",
+            "great"
+        ],
+        "word": "badly",
+        "chines": "(adv)严重的；非常",
+        "accuracy": [
+            8,
+            8,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She was badly hurt in the accident.",
+            "2. The company is badly in need of new leadership to guide it through these challenging economic times, requiring not just someone to manage daily operations but also a visionary who can foresee future trends and make strategic decisions that will ensure long-term stability and growth."
+        ],
+        "first_time": "2024-12-24_11:17:32",
+        "last_time": "2024-12-30_14:40:58"
+    },
+    "baking": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-3",
+            "n",
+            "v",
+            "good"
+        ],
+        "word": "baking",
+        "chines": "(n，v)烘培；烘烤",
+        "accuracy": [
+            9,
+            7,
+            0.77
+        ],
+        "tips": "理解：baking 指的是烘焙、烤制的过程，比如烤面包、蛋糕等。\n\n记忆方法：“bak”可以联想成“包烤”，想象把面包装进去烤制，后面加个-ing表示正在进行的动作。所以 baking 就是正在包烤（烘焙）食物的过程。",
+        "example": [
+            "1. She enjoys baking cakes on weekends.",
+            "2. While the family was away on vacation, she spent her time experimenting with different recipes for baking artisan breads in her newly purchased wood-fired oven."
+        ],
+        "first_time": "2024-12-24_11:19:16",
+        "last_time": "2024-12-30_15:12:26"
+    },
+    "balance": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-4",
+            "n",
+            "great"
+        ],
+        "word": "balance",
+        "chines": "(n)平衡；余额",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. She tries to balance work and family life.",
+            "2. Maintaining a good balance between study and leisure activities is crucial for students to achieve all-round development, which not only helps them to improve their academic performance but also contributes to their mental and physical health."
+        ],
+        "first_time": "2024-12-24_13:30:00",
+        "last_time": "2024-12-30_15:12:29"
+    },
+    "bar": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-4",
+            "n",
+            "great"
+        ],
+        "word": "bar",
+        "chines": "(n)酒吧",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He went to the bar for a drink.",
+            "2. After finishing his presentation, feeling a bit nervous, he decided to visit the bar in the hotel lobby to unwind with a glass of wine."
+        ],
+        "first_time": "2024-12-24_13:30:19",
+        "last_time": "2024-12-30_14:41:15"
+    },
+    "barrier": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-4",
+            "n",
+            "bad"
+        ],
+        "word": "barrier",
+        "chines": "(n)障碍；障碍物",
+        "accuracy": [
+            18,
+            10,
+            0.55
+        ],
+        "tips": "barrier可以拆分为bar和rier，bar有酒吧、栏杆的意思，rier可以想象成一个站立的人的形状。你可以想象一个人站在栏杆后面，这个栏杆阻止了你前进，形成了一个障碍。Barrier就是障碍、屏障的意思。比如：The language barrier made it difficult for them to communicate.（语言障碍使他们很难沟通。）这样是不是更容易记忆一些呢？",
+        "example": [
+            "1. The barrier stopped people from entering the dangerous area.",
+            "2. Despite the language barrier being a significant challenge, they managed to communicate effectively through gestures and simple words during their travels in the foreign country."
+        ],
+        "first_time": "2024-12-24_13:30:39",
+        "last_time": "2024-12-30_15:23:10"
+    },
+    "base": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-4",
+            "n",
+            "good"
+        ],
+        "word": "base",
+        "chines": "(n)基础；底部",
+        "accuracy": [
+            9,
+            7,
+            0.77
+        ],
+        "tips": "\"base\" 这个词可以这样记：想象一个建筑，所有的结构都是在底部的“基础”上建立起来的，这是最直接的理解方式。\"base\" 就像建筑物的根基、军队的大本营或者化学里的碱性物质一样，是很多东西的根本出发点或支撑部分。\n\n此外，\"base\" 也有低级、卑劣的意思，你可以联想为偏离了高尚的基础，变得低下。\n\n它还可以指代体育中的棒球垒，就是跑来跑去要触碰的那个地方，这也是一个具体形象的记忆点。",
+        "example": [
+            "1. This building is the base of operations for the company.",
+            "2. The scientist returned to the research base, which was located in a remote area far from any major city, after completing a week-long expedition to gather data on the rare species that could only survive in this extreme environment."
+        ],
+        "first_time": "2024-12-24_13:30:58",
+        "last_time": "2024-12-30_14:41:27"
+    },
+    "basic": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-4",
+            "adj",
+            "good"
+        ],
+        "word": "basic",
+        "chines": "(adj)基本的",
+        "accuracy": [
+            11,
+            8,
+            0.72
+        ],
+        "tips": "\"basic\"可以拆分为\"ba\"和\"sic\"，\"ba\"可以联想到\"八\"，\"sic\"看起来很像\"sick\"生病的，想象一下，一个人只吃了八个单位的食物就生病了，那是因为这八个单位的食物是他的基本需求，再少就不行了，所以\"basic\"就是表示最基本的，基础的。在理解上，\"basic\"指的是任何事物中最基础、最根本的部分，没有它就不能正常运作或者存在。例如basic knowledge（基础知识），basic skills（基本技能）。",
+        "example": [
+            "1. This is a basic tool for writing.",
+            "2. Understanding the basic principles of physics can help us solve many complex problems in daily life, such as how to optimize the structure of a building to make it more stable in an earthquake."
+        ],
+        "first_time": "2024-12-24_13:31:11",
+        "last_time": "2024-12-30_14:41:29"
+    },
+    "bath": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-5",
+            "n",
+            "great"
+        ],
+        "word": "bath",
+        "chines": "(n)洗澡；浴室",
+        "accuracy": [
+            12,
+            10,
+            0.82
+        ],
+        "tips": "记忆方法：“bath”可以联想为“洗澡”，想象你正在泡澡（bath），这是一个让你放松的好地方。每次想到泡澡时的舒适感，就能记起这个单词。\n\n另外，“bath”和“bathe”容易混淆：\n- bath (n.) 指的是名词“澡盆/洗澡”\n- bathe (v.) 则是动词\"洗澡\"\n\n简单区分：bath比bathe少一个e，也更短，就像浴缸里的水要少于游泳池的水。",
+        "example": [
+            "1. I take a bath every morning.",
+            "2. After a long run in the park, she enjoyed a relaxing bath with essential oils and soft music playing in the background."
+        ],
+        "first_time": "2024-12-24_13:35:12",
+        "last_time": "2024-12-30_14:41:34"
+    },
+    "bathe": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-5",
+            "v",
+            "great"
+        ],
+        "word": "bathe",
+        "chines": "(v)游泳；洗澡",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I bathe every morning.",
+            "2. After a long hike in the mountains, she decided to bathe in the hot springs to relax her tired muscles."
+        ],
+        "first_time": "2024-12-24_13:35:29",
+        "last_time": "2024-12-30_14:41:36"
+    },
+    "bathing": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-5",
+            "n",
+            "great"
+        ],
+        "word": "bathing",
+        "chines": "(n)洗海水澡；游泳",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. She enjoys bathing in the morning.",
+            "2. After a long day of hiking in the mountains, he found immense relaxation and comfort in bathing under the natural hot springs, which not only washed away his fatigue but also allowed him to immerse himself in the tranquil beauty of nature."
+        ],
+        "first_time": "2024-12-24_13:36:09",
+        "last_time": "2024-12-30_14:41:41"
+    },
+    "battery": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-5",
+            "n",
+            "bad"
+        ],
+        "word": "battery",
+        "chines": "(n)电池",
+        "accuracy": [
+            14,
+            7,
+            0.49
+        ],
+        "tips": "battery 这个词可以联想为“打他”，发音相近，然后联想到电池没电了就会打他。或者理解为电池里面有很多小格子，像一个个小房间，里面住着很多小电荷，他们充满能量， battery 也有蓄电池、电池组的意思，就像一个能量储存的地方。",
+        "example": [
+            "1. My phone battery is dead.",
+            "2. Despite charging my laptop for hours, the battery life still seems shorter than expected, which is quite inconvenient when I am traveling and cannot find a power outlet easily."
+        ],
+        "first_time": "2024-12-24_13:36:31",
+        "last_time": "2024-12-30_15:13:50"
+    },
+    "battle": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-5",
+            "n",
+            "great"
+        ],
+        "word": "battle",
+        "chines": "(n)战役；斗争",
+        "accuracy": [
+            8,
+            7,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. They had a fierce battle.",
+            "2. The soldiers were preparing for the upcoming battle, which would determine the fate of their nation, requiring them to muster all their courage and strength for the confrontation that was to come."
+        ],
+        "first_time": "2024-12-24_13:36:56",
+        "last_time": "2024-12-30_15:13:53"
+    },
+    "beforehand": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-6",
+            "adv",
+            "great"
+        ],
+        "word": "beforehand",
+        "chines": "(adv)预先；提前",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I like to plan my trips beforehand.",
+            "2. It is always wise to prepare for potential issues beforehand, ensuring that you have all necessary tools and knowledge to handle any situation that might arise during the project execution."
+        ],
+        "first_time": "2024-12-24_13:41:44",
+        "last_time": "2024-12-30_15:14:02"
+    },
+    "begin": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-6",
+            "v",
+            "great"
+        ],
+        "word": "begin",
+        "chines": "(v)开始",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I will begin my homework after dinner.",
+            "2. As soon as the teacher announced the beginning of the exam, all students began to carefully read through the questions, trying to recall every detail they had studied in preparation for this important moment."
+        ],
+        "first_time": "2024-12-24_13:41:56",
+        "last_time": "2024-12-30_14:42:21"
+    },
+    "behave": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-6",
+            "v",
+            "great"
+        ],
+        "word": "behave",
+        "chines": "(v)表现；举止",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He did not behave well at the party.",
+            "2. If you do not behave according to the rules, you may be asked to leave the premises immediately, which could result in missing out on important information or events."
+        ],
+        "first_time": "2024-12-24_13:42:16",
+        "last_time": "2024-12-30_14:42:24"
+    },
+    "being": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-6",
+            "n",
+            "bad"
+        ],
+        "word": "being",
+        "chines": "(n)存在；生物",
+        "accuracy": [
+            11,
+            6,
+            0.54
+        ],
+        "tips": "\"being\" 这个词可以这样记忆：它由 \"be\" 和 \"ing\" 组成，\"be\" 是存在、是的意思，加上 \"-ing\" 表示正在进行的状态。所以 \"being\" 就表示正在存在的意思，也可理解为生物、有生命的存在。另外，它还可以作为动名词使用，表示是、成为等含义。想象一个生命（being）正在（ing）活着（be），这样有助于记忆这个词。",
+        "example": [
+            "1. He is being very quiet today.",
+            "2. Despite the heavy rain and strong winds, the old oak tree stood firm, there being no sign of it yielding to the harsh weather conditions."
+        ],
+        "first_time": "2024-12-24_13:42:37",
+        "last_time": "2024-12-30_15:20:45"
+    },
+    "belief": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-6",
+            "n",
+            "good"
+        ],
+        "word": "belief",
+        "chines": "(n)信心；信仰",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": null,
+        "example": [
+            "1. I have a strong belief in honesty.",
+            "2. Despite the lack of evidence supporting his argument, his unwavering belief in the existence of extraterrestrial life has led him to join several organizations dedicated to UFO research and to spend countless hours studying unexplained phenomena in the hope of one day finding conclusive proof."
+        ],
+        "first_time": "2024-12-24_13:42:59",
+        "last_time": "2024-12-30_14:43:12"
+    },
+    "believe": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-7",
+            "v",
+            "good"
+        ],
+        "word": "believe",
+        "chines": "(v)相信；认同",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": "记忆方法：“be+lieve”，lieve谐音“累吠”，你累得像狗一样吠的时候，就要相信（believe）自己能行。\n\n理解：这个单词表示对某事或某人有信任、确信的态度。比如你相信朋友不会背叛你，你相信通过努力可以实现梦想。",
+        "example": [
+            "1. I believe him.",
+            "2. Although the situation seems quite complicated and it's hard to reach a conclusion immediately, I still choose to believe his explanation after considering all the possibilities."
+        ],
+        "first_time": "2024-12-24_13:45:35",
+        "last_time": "2024-12-30_15:14:39"
+    },
+    "bell": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-7",
+            "n",
+            "great"
+        ],
+        "word": "bell",
+        "chines": "(n)门铃；铃铛",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The bell rang.",
+            "2. As the old clock struck twelve, its deep-toned bell resonated through the silent night, awakening the small village from its slumber."
+        ],
+        "first_time": "2024-12-24_13:45:50",
+        "last_time": "2024-12-30_14:43:38"
+    },
+    "belonging": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-7",
+            "n",
+            "good"
+        ],
+        "word": "belonging",
+        "chines": "(n)归属感",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "“belonging”可以拆分来记：be+long+ing。\n\n- be是存在、成为的意思。\n- long有长的或者渴望的意思，这里可以引申为一种强烈的愿望。\n- ing表示状态。\n\n结合起来，“belonging”有一种处于存在或成为某处一员的状态的感觉，表示归属、隶属。你可以想象自己渴望（long）成为（be）某个群体的一员，当这种状态（ing）达成时，就是有了归属感。这个词常用来表达人对某个群体、地方或者事物有从属关系或情感上的依附。比如“a sense of belonging”就是归属感的意思。",
+        "example": [
+            "1. She felt a strong sense of belonging among her friends.",
+            "2. Despite the challenges of moving to a new country, Mark found a sense of belonging within the international community that embraced him with open arms."
+        ],
+        "first_time": "2024-12-24_13:46:01",
+        "last_time": "2024-12-30_15:14:50"
+    },
+    "bench": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-7",
+            "n",
+            "great"
+        ],
+        "word": "bench",
+        "chines": "(n)长凳；法官",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He sat on the bench in the park.",
+            "2. After the long meeting, she found a quiet spot on the old wooden bench by the lake, where she could reflect on the discussions and plan her next steps carefully."
+        ],
+        "first_time": "2024-12-24_13:46:28",
+        "last_time": "2024-12-30_14:56:02"
+    },
+    "beneficial": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-7",
+            "adj",
+            "bad"
+        ],
+        "word": "beneficial",
+        "chines": "(adj)有利的；有帮助的",
+        "accuracy": [
+            16,
+            7,
+            0.43
+        ],
+        "tips": "这个词可以这样记：\n\nbenefit（好处、利益）+ -ial（形容词后缀表示“有...性质的”)\n\n所以 beneficial 就是“有益的、有利的”。\n\n理解：它描述的是能带来好处或积极影响的事物。比如对健康有益的 (beneficial to health)。\n\n记住这个逻辑拆分，结合意思，应该更容易记住。",
+        "example": [
+            "1. Reading books is beneficial.",
+            "2. Regular exercise is not only beneficial to physical health but also significantly enhances mental well-being and resilience to stress."
+        ],
+        "first_time": "2024-12-24_13:47:27",
+        "last_time": "2024-12-30_15:21:02"
+    },
+    "benefit": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-8",
+            "n",
+            "great"
+        ],
+        "word": "benefit",
+        "chines": "(n)好处；补助金；公司福利",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. This policy will benefit all citizens.",
+            "2. In order to maximize the benefit of this new technology, the company has decided to invest more resources in staff training and public promotion."
+        ],
+        "first_time": "2024-12-24_13:50:54",
+        "last_time": "2024-12-30_14:56:49"
+    },
+    "besides": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-8",
+            "prep",
+            "bad"
+        ],
+        "word": "besides",
+        "chines": "(prep)除此之外",
+        "accuracy": [
+            11,
+            7,
+            0.63
+        ],
+        "tips": "\"besides\" 这个词可以这样记：它由 \"beside\"（在...旁边）加上 \"-s\" 构成。你可以想象有个人站在你旁边，然后他开始补充说一些额外的事情，所以 \"besides\" 就表示“此外；还有”。另外，它也可以表示“除...之外”，就像站在你旁边的这个人除了他自己之外，还带来了其他的东西或事情。",
+        "example": [
+            "1. Besides, I have other plans for the weekend.",
+            "2. She enjoys reading various types of books; besides classic literature, she is also interested in modern poetry and science fiction novels."
+        ],
+        "first_time": "2024-12-24_13:51:36",
+        "last_time": "2024-12-30_15:21:07"
+    },
+    "beyond": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-8",
+            "prep",
+            "good"
+        ],
+        "word": "beyond",
+        "chines": "(prep)超出；超出能力",
+        "accuracy": [
+            13,
+            10,
+            0.76
+        ],
+        "tips": "理解记忆法：\n\nbeyond 可以拆解为 be + yond\n- be 表示“是、在”\n- yond 是“那边、远处”的意思（类似bend弯曲的远处）\n\n记忆点：\n1. 最常用意思是“超出、超越”，比如 beyond control (失控)\n2. 也表示“在...那边/以外”，比如 beyond the hill (在山那边)\n\n联想记忆：\n可以想象一个人站在边界上，伸出手说：\"这里 beyond 就是超过/外面的意思啦！\"\n\n使用场景：\n- 这个问题超出了我的能力范围 - This question is beyond my ability.\n- 在那座山的那边 - Beyond that mountain\n\n记住：它表示一种“界限之外”的概念，无论是物理空间还是抽象的概念。",
+        "example": [
+            "1. This place is beyond the city limits.",
+            "2. The reasons for her actions extend beyond what we can easily understand, delving into complex backgrounds involving family influence, personal experiences, and societal pressures that have shaped her unique perspective over time."
+        ],
+        "first_time": "2024-12-24_13:52:21",
+        "last_time": "2024-12-30_15:15:40"
+    },
+    "bind": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-8",
+            "v",
+            "great"
+        ],
+        "word": "bind",
+        "chines": "(v)约束；捆绑",
+        "accuracy": [
+            8,
+            7,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. She will bind the book with a red ribbon.",
+            "2. In order to ensure that the agreement is effective, both parties must agree to be legally bound by its terms and conditions."
+        ],
+        "first_time": "2024-12-24_13:52:43",
+        "last_time": "2024-12-30_15:15:49"
+    },
+    "biological": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-8",
+            "adj",
+            "great"
+        ],
+        "word": "biological",
+        "chines": "(adj)生物的；生物学",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. This research focuses on biological processes.",
+            "2. The museum has a wide array of exhibits that cover everything from ancient history to biological sciences, offering visitors an in-depth understanding of the diversity of life on our planet."
+        ],
+        "first_time": "2024-12-24_13:53:53",
+        "last_time": "2024-12-30_14:57:32"
+    },
+    "bit": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-9",
+            "n",
+            "great"
+        ],
+        "word": "bit",
+        "chines": "(n)小块；一点；比特",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I had a bit of cake after lunch.",
+            "2. It's a bit challenging to understand the complex theories without adequate background knowledge, which usually requires extensive study and practice in related fields."
+        ],
+        "first_time": "2024-12-24_13:58:28",
+        "last_time": "2024-12-30_14:57:33"
+    },
+    "blame": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-9",
+            "v",
+            "n",
+            "great"
+        ],
+        "word": "blame",
+        "chines": "(v，n)责怪；责任",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She blame him for the mistake.",
+            "2. Despite the fact that the project failed, she didn't want to blame any individual, understanding that sometimes collective efforts fall short due to unforeseen circumstances and challenges that arise along the way."
+        ],
+        "first_time": "2024-12-24_13:58:57",
+        "last_time": "2024-12-30_15:15:54"
+    },
+    "blank": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-9",
+            "adj",
+            "good"
+        ],
+        "word": "blank",
+        "chines": "(adj)空白的；木然的",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "“blank”可以拆分来记忆：想象你正在看一本“书”，但是这页是“白”的（bl-an-k），什么也没有，就是空白的。它主要表示“空白的；空的”，比如一张空白的纸就是“a blank sheet of paper”。另外，“blank”也可以用来形容人茫然的表情，像是对事情毫无头绪时那种呆滞的样子。",
+        "example": [
+            "1. The blank page scared the writer.",
+            "2. Faced with the blank canvas, the artist felt both excited and nervous, wondering what masterpiece could be created from this pristine space."
+        ],
+        "first_time": "2024-12-24_13:59:24",
+        "last_time": "2024-12-30_15:21:13"
+    },
+    "bleed": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-9",
+            "v",
+            "great"
+        ],
+        "word": "bleed",
+        "chines": "(v)流血；弥漫",
+        "accuracy": [
+            8,
+            8,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The cut on my finger will not stop bleed.",
+            "2. Although the wound was small, it caused him to bleed profusely, and despite applying pressure with a clean cloth for several minutes, the bleeding did not seem to slow down at all."
+        ],
+        "first_time": "2024-12-24_13:59:48",
+        "last_time": "2024-12-30_14:57:52"
+    },
+    "block": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-9",
+            "n",
+            "great"
+        ],
+        "word": "block",
+        "chines": "(n)街区；块；大厦",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He used a block of wood to prop the door open.",
+            "2. The new housing development consists of several blocks of modern apartments, each designed with energy efficiency in mind, featuring solar panels on the rooftops and green spaces integrated throughout the compound to promote a healthier living environment for residents."
+        ],
+        "first_time": "2024-12-24_14:00:18",
+        "last_time": "2024-12-30_14:57:55"
+    },
+    "blood": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-10",
+            "n",
+            "v",
+            "great"
+        ],
+        "word": "blood",
+        "chines": "(n，v)血；血统",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. Blood flows through veins.",
+            "2. The doctor drew blood from the patient to run tests that would determine the underlying cause of her illness, which had been persistently troubling her for several weeks."
+        ],
+        "first_time": "2024-12-24_14:03:10",
+        "last_time": "2024-12-30_14:57:58"
+    },
+    "blues": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-10",
+            "n",
+            "great"
+        ],
+        "word": "blues",
+        "chines": "(n)蓝调；犹豫",
+        "accuracy": [
+            9,
+            8,
+            0.88
+        ],
+        "tips": null,
+        "example": [
+            "1. He often listens to blues to relax.",
+            "2. Despite the rainy day adding to her melancholy, she found solace in the deep rhythms and soulful vocals of traditional blues music that seemed to echo her own sorrows and joys."
+        ],
+        "first_time": "2024-12-24_14:03:26",
+        "last_time": "2024-12-30_14:59:01"
+    },
+    "boil": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-10",
+            "v",
+            "good"
+        ],
+        "word": "boil",
+        "chines": "(v)煮沸；烧开",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "沸点法记忆：boil 想象成 \"boy 煮水\"，男孩在煮水时水开始沸腾（boil）了。\n\n理解加深：\n1. boil 核心意思是“煮沸”，就是水达到100度开始冒泡的状态\n2. 也可以指任何液体达到沸点\n3. 引申义是“非常生气”，因为人发怒时像开水一样“沸腾”\n\n实用场景：\n- Don't drink the water until it boils. （水开了才能喝）\n- She was boiling with anger. （她气得快要爆炸了）\n\n记住：看到 boil 就想到水滚了或人怒了。",
+        "example": [
+            "1. She will boil the water for tea.",
+            "2. If you add more water, it will take longer for the soup to heat up to the point where it begins to boil vigorously."
+        ],
+        "first_time": "2024-12-24_14:03:43",
+        "last_time": "2024-12-30_15:16:19"
+    },
+    "booklet": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-10",
+            "n",
+            "good"
+        ],
+        "word": "booklet",
+        "chines": "(n)小册子",
+        "accuracy": [
+            9,
+            7,
+            0.77
+        ],
+        "tips": "记忆方法：可以把“booklet”拆分来看，“book”是书的意思，而“let”可以联想到小的意思（虽然let本身没有小的意思，但这里为了方便记忆做这样的联想），所以“booklet”就是小册子、小书。\n\n理解：它指的是一种比普通书籍薄且页数较少的小书或小册子，比如一些产品说明书、宣传手册之类的。",
+        "example": [
+            "1. I bought a booklet at the museum shop.",
+            "2. The travel company provided a comprehensive booklet that included detailed itineraries, background information on historical sites, and tips for navigating local customs in each destination."
+        ],
+        "first_time": "2024-12-24_14:04:04",
+        "last_time": "2024-12-30_15:16:22"
+    },
+    "bored": {
+        "wid": null,
+        "group": [
+            "2024-12-24",
+            "2024-12-24-10",
+            "adj",
+            "bad"
+        ],
+        "word": "bored",
+        "chines": "(adj)感到无聊的；感到厌烦的",
+        "accuracy": [
+            12,
+            7,
+            0.57
+        ],
+        "tips": "理解这个词很简单：\n\nbore（使厌倦）+ ed（形容词后缀）\n\n想象你坐在教室里，听着老师无趣的讲课，你就感到bored（无聊的、厌烦的）。可以说：\n- I was bored in class. （我在课堂上感到无聊。）\n- He looks bored. （他看起来很无聊。）\n\n记住：bored 是描述人的感受，而 boring 是描述事物或情况让人觉得无聊。比如：\n- The movie is boring. （这部电影很无聊。）\n- I'm bored. （我觉得无聊。）",
+        "example": [
+            "1. I was bored during the long meeting.",
+            "2. After sitting through hours of boring presentations with nothing engaging to do, I found myself increasingly bored and struggling to maintain focus."
+        ],
+        "first_time": "2024-12-24_14:04:40",
+        "last_time": "2024-12-30_15:21:17"
+    },
+    "boredom": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-2",
+            "n",
+            "good"
+        ],
+        "word": "boredom",
+        "chines": "(n)无聊",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "理解这个单词：boredom 意思是“无聊，厌倦”。可以拆解为 bore（使厌烦）+ dom（表示状态），即“被使厌烦的状态”。\n\n记忆方法：想象你坐在 boring（令人无聊的）课堂上，一直看表，觉得时间过得很慢，那种感觉就是 boredom。或者记成：“bore”（使厌烦）加“dom”（统治），无聊统治了你的情绪。",
+        "example": [
+            "1. I felt boredom during the long meeting.",
+            "2. To alleviate the boredom of the endless journey, she brought a book and some snacks, finding that even these small comforts could hardly distract her from the monotony outside the window."
+        ],
+        "first_time": "2025-01-10_11:18:17",
+        "last_time": "2025-01-10_18:12:04"
+    },
+    "borrow": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-2",
+            "v",
+            "good"
+        ],
+        "word": "borrow",
+        "chines": "(v)借来；引用",
+        "accuracy": [
+            9,
+            7,
+            0.77
+        ],
+        "tips": "“borrow”这个单词可以这样记忆：boro（不借）+w（歪），想象成不借歪的，就是借的意思，虽然这个谐音记忆法有点奇怪，但是比较容易记住。另外，“borrow”表示借入，是向别人借东西的意思，要注意它和“lend”（借出）的区别。",
+        "example": [
+            "1. I need to borrow a book from the library.",
+            "2. Although she wanted to borrow her friend's car for the weekend, she decided against it because she wasn't sure if she could return it on time and in the same condition as she borrowed it."
+        ],
+        "first_time": "2025-01-10_11:18:37",
+        "last_time": "2025-01-10_18:12:52"
+    },
+    "boss": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-2",
+            "n",
+            "v",
+            "great"
+        ],
+        "word": "boss",
+        "chines": "(n，v)老板；指手画脚",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. My boss works very hard.",
+            "2. The boss, who had been under a lot of stress due to the company's declining profits, decided to implement new strategies that he hoped would turn things around."
+        ],
+        "first_time": "2025-01-10_11:18:57",
+        "last_time": "2025-01-10_18:10:33"
+    },
+    "bother": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-2",
+            "v",
+            "great"
+        ],
+        "word": "bother",
+        "chines": "(v)麻烦；打扰",
+        "accuracy": [
+            4,
+            4,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He won't bother to attend the meeting.",
+            "2. If it's going to bother you that much, perhaps we should reconsider our plans, taking into account your feelings and finding a solution that makes everyone more comfortable."
+        ],
+        "first_time": "2025-01-10_11:19:26",
+        "last_time": "2025-01-10_18:09:12"
+    },
+    "bottom": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-2",
+            "n",
+            "good"
+        ],
+        "word": "bottom",
+        "chines": "(n)底部",
+        "accuracy": [
+            7,
+            5,
+            0.7
+        ],
+        "tips": "理解记忆法：\n\nbottom 可以拆分为 bot + tom\n- bot 联想到机器人（robot）\n- tom 是一个常见英文名\n\n想象一个场景：机器人Tom摔倒了，他的屁股（bottom）着地。\n\n另外，这个词在使用时可以记住几个常用搭配：\n- bottom up 从下往上的\n- rock bottom 最低点\n- bottom line 底线/结论\n\n这样通过形象记忆加实际用法，能帮助你更好记住这个词。",
+        "example": [
+            "1. She put the book on the bottom shelf.",
+            "2. Despite searching from top to bottom, they failed to find any evidence that could prove his innocence in this complicated case."
+        ],
+        "first_time": "2025-01-10_11:19:43",
+        "last_time": "2025-01-10_18:12:26"
+    },
+    "brain": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-2",
+            "n",
+            "good"
+        ],
+        "word": "brain",
+        "chines": "(n)大脑；智力",
+        "accuracy": [
+            10,
+            7,
+            0.69
+        ],
+        "tips": "brain 这个词可以这样记：想象一下 b 是脑袋的侧面轮廓，r 像是大脑里盘旋的思绪在转圈，ai 可以联想到人工智能，暗示这是聪明才智的来源，n 是脑袋下面的脖子。所以 b+思考的线条+智慧+脖子，就是 brain 大脑啦。\n\n从理解上来说，brain 是人体中非常重要的器官，它掌管着我们的思考、记忆、情绪等功能，没有大脑我们就不能正常思考和行动了。",
+        "example": [
+            "1. The brain controls our thoughts and movements.",
+            "2. Scientists have discovered that the human brain, despite its small size relative to the rest of the body, consumes a disproportionate amount of energy to maintain its complex network of neurons and synapses."
+        ],
+        "first_time": "2025-01-10_11:19:57",
+        "last_time": "2025-01-10_18:12:24"
+    },
+    "brave": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-3",
+            "adj",
+            "",
+            "good"
+        ],
+        "word": "brave",
+        "chines": "(adj，)勇敢的；勇敢的人",
+        "accuracy": [
+            12,
+            9,
+            0.74
+        ],
+        "tips": "联想记忆法：brave 可以拆分为 \"bra\"（像bra这种内衣是保护胸部的，很勇敢地保护）+ \"ve\"（看起来像V，胜利的象征），所以 brave 就像是为了胜利而勇敢保护的样子。\n\n理解记忆：brave 表示勇敢的，有勇气面对困难或危险的人。比如一个勇敢的消防员冲进火场救人，他就是 brave 的。想象那些在困难面前不退缩、坚定向前的人物形象，就能更好地记住 brave 这个词了。",
+        "example": [
+            "1. The brave soldier saved the child.",
+            "2. Despite her fear of public speaking, she gave a brave and heartfelt presentation in front of the large audience, which earned her everyone's respect and admiration."
+        ],
+        "first_time": "2025-01-10_11:23:22",
+        "last_time": "2025-01-12_14:11:26"
+    },
+    "break": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-3",
+            "n",
+            "great"
+        ],
+        "word": "break",
+        "chines": "(n)课间休息；终止",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She decided to break the news gently.",
+            "2. After hours of discussion, they finally agreed to break down the old building and construct a new one that would better serve the community's needs."
+        ],
+        "first_time": "2025-01-10_11:23:58",
+        "last_time": "2025-01-10_18:12:11"
+    },
+    "briefly": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-3",
+            "adv",
+            "good"
+        ],
+        "word": "briefly",
+        "chines": "(adv)简要地；短暂的",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": "“briefly”可以拆分来记忆：brief（简短的）+ -ly（副词后缀，表示“以...方式”）。所以，“briefly”就是“以简短的方式”，意思是非常简短地、扼要地。想象一下你说话时很简洁快速，别人会说你说得太“briefly”了，这样有助于记住这个单词。",
+        "example": [
+            "1. She spoke briefly at the meeting.",
+            "2. I can only explain the process briefly here, as a full discussion would require much more space and time, delving into various aspects such as historical context, development trajectory, and future prospects."
+        ],
+        "first_time": "2025-01-10_11:24:37",
+        "last_time": "2025-01-10_18:12:22"
+    },
+    "bright": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-3",
+            "adj",
+            "great"
+        ],
+        "word": "bright",
+        "chines": "(adj)明亮的；鲜艳的",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The sun is bright today.",
+            "2. Despite the challenges she faced, she always managed to keep her spirits bright and look forward to the future with optimism and hope."
+        ],
+        "first_time": "2025-01-10_11:24:58",
+        "last_time": "2025-01-10_18:12:46"
+    },
+    "brilliant": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-3",
+            "adj",
+            "great"
+        ],
+        "word": "brilliant",
+        "chines": "(adj)绝妙的；杰出的",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She gave a brilliant performance.",
+            "2. The scientist came up with a brilliant solution to the complex environmental issue that had puzzled the community for decades, significantly improving the quality of life for local residents."
+        ],
+        "first_time": "2025-01-10_11:25:44",
+        "last_time": "2025-01-10_18:13:21"
+    },
+    "British": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-4",
+            "adj",
+            "great"
+        ],
+        "word": "British",
+        "chines": "(adj)英国人",
+        "accuracy": [
+            11,
+            9,
+            0.81
+        ],
+        "tips": null,
+        "example": [
+            "1. The British Museum is in London.",
+            "2. Despite the rainy weather, which is typical of the British climate, tourists from all over the world still flock to enjoy the rich history and culture that Britain offers."
+        ],
+        "first_time": "2025-01-10_17:47:20",
+        "last_time": "2025-01-11_15:17:12"
+    },
+    "broad": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-4",
+            "adj",
+            "great"
+        ],
+        "word": "broad",
+        "chines": "(adj)宽阔的；概括的",
+        "accuracy": [
+            11,
+            9,
+            0.81
+        ],
+        "tips": "“broad”这个词表示“宽的，广阔的”。你可以这样记：把“broad”拆成“bro”（兄弟）和“ad”（广告），想象你的兄弟在一块非常宽阔的地方张贴广告，那地方宽得不得了，这样就容易记住“broad”是宽广的意思了。",
+        "example": [
+            "1. The river is broad.",
+            "2. She has a broad range of interests, from ancient history to modern technology, which makes her conversations incredibly engaging and informative for people from all walks of life."
+        ],
+        "first_time": "2025-01-10_17:47:56",
+        "last_time": "2025-01-11_15:17:15"
+    },
+    "brotherly": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-4",
+            "adj",
+            "good"
+        ],
+        "word": "brotherly",
+        "chines": "(adj)友好的",
+        "accuracy": [
+            9,
+            6,
+            0.66
+        ],
+        "tips": "理解这个单词的关键是拆分：brother（兄弟）+ -ly（形容词后缀，表示“像...的”）\n\n记忆方法：\n1. “像兄弟一样的”，所以 brotherly 就是“兄弟般的、兄友弟恭的”\n2. 想象一群兄弟相处的画面，他们互相帮助、友爱，这就是 brotherly 的含义\n\n用法提示：\n这个词通常用来形容人与人之间的关系很像兄弟一样友好，不一定要有血缘关系。比如“brotherly love”就是指像兄弟般的友爱。\n\n常见搭配：\n- brotherly love 兄弟之爱\n- brotherly feelings 兄弟般的情感",
+        "example": [
+            "1. He showed a brotherly love for his sister.",
+            "2. With its emphasis on brotherly affection and mutual support, the club has created a warm and welcoming atmosphere for all members."
+        ],
+        "first_time": "2025-01-10_17:48:19",
+        "last_time": "2025-01-11_15:17:19"
+    },
+    "buddy": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-4",
+            "n",
+            "good"
+        ],
+        "word": "buddy",
+        "chines": "(n)好朋友",
+        "accuracy": [
+            12,
+            9,
+            0.74
+        ],
+        "tips": "记忆方法：“bud”可以联想为“小花苞”，“dy”可以联想到“动态”，想象一个正在动态开放的小花苞，它就像是你生命中逐渐绽放的朋友关系。更简单的，你可以直接把“buddy”想象成“我的（my）好兄弟（bud-类似音）”。\n\n理解：这个单词表示朋友、伙伴的意思，通常指比较亲近、同辈之间或者有共同兴趣爱好的人之间的称呼。",
+        "example": [
+            "1. My buddy likes to play basketball.",
+            "2. When we go camping, my buddy always makes sure to pack extra snacks just in case we get particularly hungry during our hikes."
+        ],
+        "first_time": "2025-01-10_17:49:05",
+        "last_time": "2025-01-11_15:17:22"
+    },
+    "build": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-4",
+            "v",
+            "great"
+        ],
+        "word": "buildz",
+        "chines": "(v)建造；建立",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "我注意到你提供的单词是\"buildz\"，这并不是一个标准的英语单词。为了给你提供准确的例句，我将使用正确的单词\"build\"。",
+            ""
+        ],
+        "first_time": "2025-01-10_17:49:43",
+        "last_time": "2025-01-11_15:17:25"
+    },
+    "bully": {
+        "wid": null,
+        "group": [
+            "2025-01-10",
+            "2025-01-10-4",
+            "v",
+            "great"
+        ],
+        "word": "bully",
+        "chines": "(v)欺辱；伤害",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The bully in school often takes other kids' lunch money.",
+            "2. Despite the new anti-bullying policies, the persistent bully still finds subtle ways to intimidate his classmates without getting caught by teachers."
+        ],
+        "first_time": "2025-01-10_17:50:13",
+        "last_time": "2025-01-11_15:17:28"
+    },
+    "business": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-1",
+            "n",
+            "great"
+        ],
+        "word": "business",
+        "chines": "(n)商业",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He focuses on his business.",
+            "2. In the rapidly evolving landscape of technology, her innovative approaches to business strategy have set new standards for startups aiming to establish a strong market presence."
+        ],
+        "first_time": "2025-01-11_17:36:52",
+        "last_time": "2025-01-11_17:50:02"
+    },
+    "businessperson": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-1",
+            "n",
+            "good"
+        ],
+        "word": "businessperson",
+        "chines": "(n)商人",
+        "accuracy": [
+            9,
+            6,
+            0.66
+        ],
+        "tips": "这个词可以这样记：business（生意，商业）+ person（人），就是做生意的人，商人。你可以联想成“商界人士”或者“从商之人”。每次看到businessperson就想到那些在商场上打拼的人。",
+        "example": [
+            "1. The businessperson attended a meeting with clients.",
+            "2. Despite the long hours and high pressure, the ambitious businessperson thrived in the competitive environment of international commerce, constantly seeking new opportunities for growth and innovation."
+        ],
+        "first_time": "2025-01-11_17:37:22",
+        "last_time": "2025-01-11_17:49:39"
+    },
+    "calm": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-1",
+            "adj",
+            "great"
+        ],
+        "word": "calm",
+        "chines": "(adj)沉着的；平静的",
+        "accuracy": [
+            7,
+            6,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. She tried to keep calm in the emergency.",
+            "2. Despite the chaos around her, she maintained a calm demeanor, speaking in a soft voice to reassure everyone that they would find a solution as long as they remained collected and thoughtful in their actions."
+        ],
+        "first_time": "2025-01-11_17:37:52",
+        "last_time": "2025-01-11_17:49:42"
+    },
+    "campaign": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-1",
+            "n",
+            "good"
+        ],
+        "word": "campaign",
+        "chines": "(n)活动；战役",
+        "accuracy": [
+            7,
+            5,
+            0.7
+        ],
+        "tips": "理解记忆法：\n\ncampaign 可以拆成 cam + paign\n- cam 想象成“坎”（音近），paign 想象成“牌”（形近）。\n- 就像一场竞选运动（campaign）中，候选人要翻过很多的坎坷（坎），并且打出手中的各种牌来争取胜利。\n\n这个单词主要意思有：\n1. 战役，运动：指一系列有计划、有目的的行动，如同战争中的一个阶段性的战斗行动。\n2. （政治或商业等的）活动，运动：如总统竞选活动，环保运动等。",
+        "example": [
+            "1. The charity launched a campaign to raise money for the homeless.",
+            "2. During the election campaign, which lasted for several months, the candidate traveled across the country, giving speeches and meeting voters to gain their support for his ambitious economic reform plans."
+        ],
+        "first_time": "2025-01-11_17:38:44",
+        "last_time": "2025-01-11_17:48:40"
+    },
+    "campus": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-1",
+            "n",
+            "great"
+        ],
+        "word": "campus",
+        "chines": "(n)校园；校区",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The campus is full of students during the day.",
+            "2. Walking through the vibrant campus, one can observe students engaged in various activities, from intense study sessions in the library to casual sports games on the green field, all contributing to a lively academic atmosphere."
+        ],
+        "first_time": "2025-01-11_17:39:02",
+        "last_time": "2025-01-11_17:49:29"
+    },
+    "cancel": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-2",
+            "n",
+            "great"
+        ],
+        "word": "cancel",
+        "chines": "(n)取消；废除",
+        "accuracy": [
+            6,
+            5,
+            0.82
+        ],
+        "tips": null,
+        "example": [
+            "1. I need to cancel my appointment.",
+            "2. Due to the severe weather conditions, the airline decided to cancel the flight scheduled for this evening, which caused a lot of inconvenience to the passengers who had important matters to attend to at their destinations."
+        ],
+        "first_time": "2025-01-11_17:43:57",
+        "last_time": "2025-01-11_17:49:52"
+    },
+    "candidate": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-2",
+            "n",
+            "great"
+        ],
+        "word": "candidate",
+        "chines": "(n)候选人",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She is a strong candidate for the job.",
+            "2. After reviewing all applications, the committee found that Michael was the most qualified candidate, not only because of his extensive experience in the field but also due to his innovative ideas and excellent teamwork skills which would greatly contribute to our project."
+        ],
+        "first_time": "2025-01-11_17:44:12",
+        "last_time": "2025-01-11_17:49:48"
+    },
+    "capable": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-2",
+            "adj",
+            "great"
+        ],
+        "word": "capable",
+        "chines": "(adj)有能力的；有才能的",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She is capable of solving this math problem.",
+            "2. Despite the challenging circumstances and limited resources, the team demonstrated that they were more than capable of completing the project on time and under budget, while also ensuring high quality and innovation in their approach."
+        ],
+        "first_time": "2025-01-11_17:44:37",
+        "last_time": "2025-01-11_17:49:58"
+    },
+    "care": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-2",
+            "v",
+            "great"
+        ],
+        "word": "care",
+        "chines": "(v)在意；照看；想要",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She care for her little brother every day.",
+            "2. In spite of their differences, she still care deeply about his well-being and always try her best to support him in various ways, such as offering advice or just being there to listen when he needs to talk."
+        ],
+        "first_time": "2025-01-11_17:45:07",
+        "last_time": "2025-01-11_17:49:30"
+    },
+    "career": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-2",
+            "n",
+            "v",
+            "great"
+        ],
+        "word": "career",
+        "chines": "(n，v)事业；职业；猛冲",
+        "accuracy": [
+            4,
+            4,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She has had a successful career in medicine.",
+            "2. After years of hard work and countless sleepless nights dedicated to his research, he finally reached the pinnacle of his chosen career, becoming a renowned expert in artificial intelligence, which not only fulfilled his personal aspirations but also made significant contributions to the technological advancement of his country."
+        ],
+        "first_time": "2025-01-11_17:45:45",
+        "last_time": "2025-01-11_17:49:13"
+    },
+    "careful": {
+        "wid": null,
+        "group": [
+            "2025-01-11",
+            "2025-01-11-2",
+            "adj",
+            "good"
+        ],
+        "word": "careful",
+        "chines": "(adj)小心；细致的；谨慎",
+        "accuracy": [
+            7,
+            5,
+            0.7
+        ],
+        "tips": null,
+        "example": [
+            "1. Be careful when you cross the road.",
+            "2. You need to be more careful with your belongings, especially in crowded places like train stations and markets, to avoid losing anything valuable."
+        ],
+        "first_time": "2025-01-11_17:46:10",
+        "last_time": "2025-01-11_17:49:25"
+    },
+    "carefully": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-1",
+            "adv",
+            "great"
+        ],
+        "word": "carefully",
+        "chines": "(adv)仔细的；小心的",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She walked carefully on the icy path.",
+            "2. The scientist examined the data carefully, ensuring that every detail was accurate and that no anomalies were overlooked in the experiment about climate change."
+        ],
+        "first_time": "2025-01-12_14:05:46",
+        "last_time": "2025-01-12_15:36:27"
+    },
+    "caregiver": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-1",
+            "n",
+            "good"
+        ],
+        "word": "caregiver",
+        "chines": "(n)看护人",
+        "accuracy": [
+            9,
+            7,
+            0.77
+        ],
+        "tips": "这个词可以这样记：care（照顾）+ giver（给予者），就是“照顾者；护理人员”的意思。你可以想象一个人在给予别人照顾，他就是caregiver。",
+        "example": [
+            "1. The caregiver helps the elderly man with his daily activities.",
+            "2. As a dedicated caregiver, she not only assists with physical needs but also provides emotional support and companionship to her patients who are recovering from serious illnesses."
+        ],
+        "first_time": "2025-01-12_14:06:05",
+        "last_time": "2025-01-12_15:36:37"
+    },
+    "carelessness": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-1",
+            "n",
+            "great"
+        ],
+        "word": "carelessness",
+        "chines": "(n)粗心",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. His carelessness caused him to spill coffee on his homework.",
+            "2. Due to her habitual carelessness, she not only forgot to lock the door when leaving home but also left the stove on, which could have led to a serious accident if the neighbors had not noticed the unusual smell of burning."
+        ],
+        "first_time": "2025-01-12_14:06:26",
+        "last_time": "2025-01-12_15:36:42"
+    },
+    "carpenter": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-1",
+            "n",
+            "great"
+        ],
+        "word": "carpenter",
+        "chines": "(n)木匠",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The carpenter made a table.",
+            "2. The skilled carpenter, who had over twenty years of experience, meticulously crafted an exquisite wooden cabinet that took him nearly a month to complete, using only traditional tools and techniques passed down through generations."
+        ],
+        "first_time": "2025-01-12_14:06:46",
+        "last_time": "2025-01-12_15:36:50"
+    },
+    "carry": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-1",
+            "v",
+            "great"
+        ],
+        "word": "carry",
+        "chines": "(v)提；抱；扛",
+        "accuracy": [
+            7,
+            7,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She can carry the box easily.",
+            "2. Despite feeling tired, he decided to carry on with his work without taking a break, hoping to finish the project ahead of schedule."
+        ],
+        "first_time": "2025-01-12_14:07:17",
+        "last_time": "2025-01-12_15:36:52"
+    },
+    "case": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-2",
+            "n",
+            "good"
+        ],
+        "word": "case",
+        "chines": "(n)案件；事例",
+        "accuracy": [
+            9,
+            6,
+            0.66
+        ],
+        "tips": "case 这个词可以联想为一个“箱子”，因为它的发音很像中文的“箱子”。\n\n它有多个常用含义：\n1. 箱子/盒：a suitcase (手提箱)\n\n2. 案例/事例：a case of study (研究案例)\n\n3. 病例：medical case (医疗病例)\n\n4. 法律案件：court case (法庭案件)\n\n5. 外壳：phone case (手机壳)\n\n记忆技巧：想象一个装着不同东西的箱子，打开后可能是文件(案例)、药品(病例)或电子设备(外壳)，这样就能联想到它的多种含义。",
+        "example": [
+            "1. This is a special case.",
+            "2. In the event of an emergency, it's important to consider each case carefully, evaluating the unique circumstances and factors involved before taking any action."
+        ],
+        "first_time": "2025-01-12_14:13:13",
+        "last_time": "2025-01-12_15:36:54"
+    },
+    "casual": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-2",
+            "adj",
+            "bad"
+        ],
+        "word": "casual",
+        "chines": "(adj)随便；休闲的",
+        "accuracy": [
+            10,
+            6,
+            0.59
+        ],
+        "tips": "“casual”可以拆分记忆为“ca”+“su”+“al”，但更简单的是理解其含义来记忆。它主要表示“随意的；偶然的”。你可以想象一个人穿着很随意（casual）地走在路上，突然偶然（casual）遇到了老朋友，这种场景有助于记住这个单词。它常用来描述 Dress casual（休闲装），casual meeting（非正式会议）等。",
+        "example": [
+            "1. He wore a casual shirt for the party.",
+            "2. Despite the formal occasion, she maintained a casual and relaxed demeanor throughout the event, which surprised many of the attendees who were expecting her to be more uptight given the circumstances."
+        ],
+        "first_time": "2025-01-12_14:13:34",
+        "last_time": "2025-01-12_15:37:02"
+    },
+    "catch": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-2",
+            "v",
+            "great"
+        ],
+        "word": "catch",
+        "chines": "(v)抓住；察觉",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He tried to catch the ball but missed.",
+            "2. Despite the heavy traffic, I managed to catch the bus just as it was about to leave the station."
+        ],
+        "first_time": "2025-01-12_14:13:54",
+        "last_time": "2025-01-12_15:37:05"
+    },
+    "cause": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-2",
+            "n",
+            "v",
+            "great"
+        ],
+        "word": "cause",
+        "chines": "(n，v)原因；造成",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He didn't come to school cause he was sick.",
+            "2. The meeting was canceled cause the manager had an unexpected emergency to deal with and could not make it on time."
+        ],
+        "first_time": "2025-01-12_14:14:18",
+        "last_time": "2025-01-12_15:37:09"
+    },
+    "celebrate": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-2",
+            "v",
+            "good"
+        ],
+        "word": "celebrate",
+        "chines": "(v)庆祝；赞美",
+        "accuracy": [
+            8,
+            6,
+            0.74
+        ],
+        "tips": "celebrate 这个词可以这样记：\n\n**1. 词根记忆法**：“celebr”表示“著名的”，“ate”是动词后缀。庆祝的事情往往是令人难忘的、著名的时刻，比如生日、节日等。\n\n**2. 联想记忆法**：想到celebrity（名人），名人们常常会庆祝各种活动和成就，所以从名人联想到庆祝。\n\n理解上，这个词主要表示为某个特殊的日子或事件而举行欢乐的活动，表达喜悦和纪念的心情。",
+        "example": [
+            "1. We will celebrate Christmas together.",
+            "2. In order to celebrate the successful completion of this project, which has taken us more than a year and involved countless days and nights of hard work, the company decided to organize a grand party for all the team members who have contributed their wisdom and strength."
+        ],
+        "first_time": "2025-01-12_14:15:04",
+        "last_time": "2025-01-12_15:37:13"
+    },
+    "celebration": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-2",
+            "n",
+            "great"
+        ],
+        "word": "celebration",
+        "chines": "(n)庆典；赞扬",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. We had a big celebration for her birthday.",
+            "2. The celebration of the company's 50th anniversary included speeches from longtime employees, a elaborate dinner, and a fireworks display that lit up the night sky."
+        ],
+        "first_time": "2025-01-12_14:15:28",
+        "last_time": "2025-01-12_15:37:24"
+    },
+    "cell": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-3",
+            "n",
+            "great"
+        ],
+        "word": "cell",
+        "chines": "(n)细胞；手机",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. Each cell in the human body has a specific function.",
+            "2. The scientist explained that while all cells share some common structures, the differences in cellular components are what allow for specialization and diverse functions within multicellular organisms."
+        ],
+        "first_time": "2025-01-12_14:20:25",
+        "last_time": "2025-01-12_15:37:27"
+    },
+    "central": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-3",
+            "adj",
+            "good"
+        ],
+        "word": "central",
+        "chines": "(adj)中心的；中央的；核心的",
+        "accuracy": [
+            9,
+            6,
+            0.66
+        ],
+        "tips": null,
+        "example": [
+            "1. The library is in the central part of the city.",
+            "2. Despite numerous outlying attractions, the central business district remains the heart of economic activity, bustling with a diverse crowd and featuring an array of multinational corporations and local enterprises."
+        ],
+        "first_time": "2025-01-12_14:21:01",
+        "last_time": "2025-01-12_15:37:39"
+    },
+    "century": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-3",
+            "n",
+            "great"
+        ],
+        "word": "century",
+        "chines": "(n)世纪",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. This painting is over a century old.",
+            "2. After a century of industrial development, we have witnessed significant changes in the global climate patterns, which have in turn affected agricultural productivity and biodiversity across different continents."
+        ],
+        "first_time": "2025-01-12_14:21:15",
+        "last_time": "2025-01-12_15:37:43"
+    },
+    "certain": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-3",
+            "adj",
+            "bad"
+        ],
+        "word": "certain",
+        "chines": "(adj)肯定的；确定的",
+        "accuracy": [
+            11,
+            6,
+            0.54
+        ],
+        "tips": "理解这个单词：你可以把 \"certain\" 想象成心中有一把尺子，对于事情能有个确定的衡量。比如当你说对某事是 certain 时，就像这把尺子已经量过，结果明确无疑。“certain”常表示对某事是确定的、有把握的，也可指某人或某类不确定的人。\n\n记忆方法：“cer”可以联想到“心”，“tain”联想为“态”，心里状态很确定的事情，就是 certain。",
+        "example": [
+            "1. I am certain that he will come.",
+            "2. Under certain circumstances, it might be necessary to take more drastic measures to ensure the safety and well-being of everyone involved in the situation."
+        ],
+        "first_time": "2025-01-12_14:21:34",
+        "last_time": "2025-01-12_15:37:47"
+    },
+    "certainly": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-3",
+            "adv",
+            "great"
+        ],
+        "word": "certainly",
+        "chines": "(adv)无疑",
+        "accuracy": [
+            6,
+            6,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. Certainly, I will help you.",
+            "2. If you need any assistance with your homework, you can certainly ask me, and I will do my best to provide guidance and support whenever you require it."
+        ],
+        "first_time": "2025-01-12_14:21:58",
+        "last_time": "2025-01-12_15:37:51"
+    },
+    "certificate": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-3",
+            "n",
+            "bad"
+        ],
+        "word": "certificate",
+        "chines": "(n)文凭；证明",
+        "accuracy": [
+            11,
+            6,
+            0.54
+        ],
+        "tips": "理解记忆法：\n\ncertificate 可以拆分 certi + ficate\n\n- certi 来源于拉丁语，表示“确定的、肯定的”，比如我们熟悉的 certain（确定的）。\n- ficate 是常见的名词后缀。\n\n所以 certificate 的本意就是“用来确定某事的文件或证明”。\n\n联想记忆：\n想象你拿到毕业证书时，它确确实实地证明了你的学习经历。证书就是用来认证某个事实的官方文件，比如毕业证、资格证等。\n\n使用场景：\n1. 学历证书\n2. 资格证书\n3. 合格证书\n\n记住：凡是能证明某个事实或资格的正式文件都可以叫 certificate。",
+        "example": [
+            "1. She showed me her certificate of completion.",
+            "2. In order to prove his qualification for the job, he presented a certificate that verified his years of experience and professional training in the relevant field."
+        ],
+        "first_time": "2025-01-12_14:22:26",
+        "last_time": "2025-01-12_15:39:11"
+    },
+    "chairman": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-4",
+            "n",
+            "great"
+        ],
+        "word": "chairman",
+        "chines": "(n)主席；董事长",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The chairman welcomed everyone to the meeting.",
+            "2. After a lengthy discussion, it was decided that the chairman, who had been elected by the board members just last month and had already gained the respect of his peers for his insightful leadership, would be the one to present the proposal to the investors."
+        ],
+        "first_time": "2025-01-12_15:31:23",
+        "last_time": "2025-01-12_15:38:14"
+    },
+    "challenge": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-4",
+            "n",
+            "great"
+        ],
+        "word": "challenge",
+        "chines": "(n)考验；质疑",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. This challenge is very difficult for him.",
+            "2. Despite the heavy rain and strong winds, she accepted the challenge of completing the marathon, which tested not only her physical strength but also her mental resilience."
+        ],
+        "first_time": "2025-01-12_15:31:48",
+        "last_time": "2025-01-12_15:38:17"
+    },
+    "chance": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-4",
+            "n",
+            "great"
+        ],
+        "word": "chance",
+        "chines": "(n)机会；风险",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I got a chance to visit Paris last summer.",
+            "2. Despite the long odds and numerous challenges, she believed that this rare chance, which had come after years of hard work and preparation, could finally allow her to showcase her talents on the international stage."
+        ],
+        "first_time": "2025-01-12_15:32:04",
+        "last_time": "2025-01-12_15:38:22"
+    },
+    "change": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-4",
+            "v",
+            "great"
+        ],
+        "word": "change",
+        "chines": "(v)改变；交替",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I need to change my shirt.",
+            "2. If we want to succeed, we must be willing to change our strategies and adapt to new circumstances, even when it's challenging and uncomfortable."
+        ],
+        "first_time": "2025-01-12_15:32:19",
+        "last_time": "2025-01-12_15:38:24"
+    },
+    "chapter": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-4",
+            "n",
+            "bad"
+        ],
+        "word": "chapter",
+        "chines": "(n)章节；时期",
+        "accuracy": [
+            9,
+            5,
+            0.55
+        ],
+        "tips": "理解记忆法：\n\n把“chapter”拆分来看，“chap”可以联想到中文的“章”，而“ter”可以联想为“部分”或者直接与结尾联系。所以“chapter”就可以理解为书本中的一章或一部分。\n\n在书中，每一章（chapter）都是一个相对独立的故事片段或者内容板块，就像一个个小节一样连接成完整的故事或论述。",
+        "example": [
+            "1. I finished reading the first chapter of the novel last night.",
+            "2. After spending several hours engrossed in the intricate plot, she finally reached the end of chapter seven, where the story took an unexpected turn that left her eager to continue reading well into the early morning hours."
+        ],
+        "first_time": "2025-01-12_15:32:42",
+        "last_time": "2025-01-12_15:38:26"
+    },
+    "character": {
+        "wid": null,
+        "group": [
+            "2025-01-12",
+            "2025-01-12-4",
+            "n",
+            "great"
+        ],
+        "word": "character",
+        "chines": "(n)人物；特点；性格",
+        "accuracy": [
+            5,
+            5,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She has a strong character.",
+            "2. The character of the novel was so well-developed that readers could easily imagine his reactions in various complex and unpredictable situations, which greatly enhanced the appeal of the story."
+        ],
+        "first_time": "2025-01-12_15:33:42",
+        "last_time": "2025-01-12_15:38:29"
+    }
+}

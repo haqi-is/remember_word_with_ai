@@ -1,0 +1,1012 @@
+{
+    "eye": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "bad"
+        ],
+        "word": "eye",
+        "chines": "眼睛",
+        "accuracy": [
+            52,
+            34,
+            0.64
+        ],
+        "tips": "“eye”可以联想成“我用眼睛看（I see）”，谐音记忆：爱西 = eye。",
+        "example": [
+            "1. She has beautiful green eyes.",
+            "2. Despite the dim lighting, his sharp eye caught every detail of the room."
+        ],
+        "first_time": "2024-12-03_10:29:44",
+        "last_time": "2025-03-24_16:09:36"
+    },
+    "system": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "good"
+        ],
+        "word": "system",
+        "chines": "系统",
+        "accuracy": [
+            59,
+            41,
+            0.68
+        ],
+        "tips": "“system”可以拆分成“sys”和“tem”。想象一下，“sys”像是一台电脑的启动声“滴滴”，而“tem”像是“temp”（临时）的简化。整个词就像是一台电脑从启动到进入系统的过程，每次启动都是按照一套固定的程序来进行，这就是“system”——一个有组织、有规律的整体或体系。",
+        "example": [
+            "1. The system is down.",
+            "2. The complex system of checks and balances ensures that no single branch of government becomes too powerful."
+        ],
+        "first_time": "2024-12-03_10:29:44",
+        "last_time": "2025-03-24_16:09:41"
+    },
+    "yes": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "bad"
+        ],
+        "word": "yes",
+        "chines": "是",
+        "accuracy": [
+            175,
+            71,
+            0.4
+        ],
+        "tips": "“yes” 这个词很简单，就是表示肯定的回答。你可以想象在点头的时候说 “yes”，点头就是同意的意思。记住每次点头的时候就是在说 “yes”。",
+        "example": [
+            "1. Yes, I will help you.",
+            "2. Yes, despite the challenging circumstances and the overwhelming workload, I am confident that we can complete the project on time."
+        ],
+        "first_time": "2024-12-03_10:29:44",
+        "last_time": "2024-12-05_17:57:04"
+    },
+    "information": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "information",
+        "chines": "信息",
+        "accuracy": [
+            27,
+            22,
+            0.8
+        ],
+        "tips": "信息。可以联想成：in（里面）+ formation（形成），意思是在里面形成了某种东西，即信息。或者简单记为“信息”的拼音开头：in-for-mation。",
+        "example": [
+            "1. The information is accurate.",
+            "2. The detailed information provided in the report will help us make an informed decision about the future of our project."
+        ],
+        "first_time": "2024-12-03_10:29:44",
+        "last_time": "2024-12-11_10:25:34"
+    },
+    "tips": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "tips",
+        "chines": "提示",
+        "accuracy": [
+            22,
+            19,
+            0.85
+        ],
+        "tips": null,
+        "example": [
+            "1. She gave him a few tips on cooking.",
+            "2. The waiter was pleased to receive generous tips from the satisfied customers, which not only boosted his morale but also helped him meet his financial goals for the month."
+        ],
+        "first_time": "2024-12-03_10:29:44",
+        "last_time": "2024-12-05_17:57:15"
+    },
+    "group": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "good"
+        ],
+        "word": "group",
+        "chines": "组",
+        "accuracy": [
+            40,
+            27,
+            0.67
+        ],
+        "tips": "“group”可以拆成“g+roup”，想象一下“g”像一个钩子，把一群（roup）人勾在一起，形成一个团体。这样是不是容易记忆一些？",
+        "example": [
+            "1. The group went to the park.",
+            "2. After finishing their project, the group decided to celebrate by going out for dinner and then watching a movie together."
+        ],
+        "first_time": "2024-12-03_10:29:44",
+        "last_time": "2024-12-05_17:57:20"
+    },
+    "set": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "good"
+        ],
+        "word": "set",
+        "chines": "设置",
+        "accuracy": [
+            25,
+            19,
+            0.75
+        ],
+        "tips": "\"set\" 这个词有多重含义，但可以记住它最常用的几个意思：\n\n1. **放置**：把某物放在某个地方。比如：“He set the book on the table.”（他把书放在桌子上。）想象一下，你手里拿着一本书，然后把它放在桌子上，这就是 \"set\" 的动作。\n\n2. **设定**：确定或规定某事。比如：“Set a goal for yourself.”（给自己设定一个目标。）想象一下，你在心里给自己定下一个明确的目标，这就是 \"set\" 的意思。\n\n3. **集合**：数学中的集合。比如：“The set of all natural numbers.”（所有自然数的集合。）想象一下，你把一堆数字放在一起，形成一个集合。\n\n4. **一套**：一组相关的事物。比如：“a set of keys”（一串钥匙）。想象一下，你有一串不同的钥匙，它们组成了一套。\n\n通过这些具体的场景和例子，可以帮助你更好地记忆 \"set\" 这个词的不同含义。",
+        "example": [
+            "1. Set the table for dinner.",
+            "2. The sun set behind the mountains, casting a warm orange glow over the valley as the day came to a peaceful close."
+        ],
+        "first_time": "2024-11-30_16:26:44",
+        "last_time": "2024-12-11_10:25:38"
+    },
+    "join": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "join",
+        "chines": "加入",
+        "accuracy": [
+            17,
+            14,
+            0.81
+        ],
+        "tips": "“join”可以联想为“接吻”的拼音“jiē wěn”，想象两个人接吻时，他们的嘴唇“连接”在一起。这样可以帮助你记住“join”有“加入、连接”的意思。",
+        "example": [
+            "1. She will join us for dinner.",
+            "2. After finishing his studies, he plans to join the family business, bringing with him a wealth of new ideas and innovative strategies."
+        ],
+        "first_time": "2024-11-30_19:42:44",
+        "last_time": "2024-12-05_17:57:24"
+    },
+    "port": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "port",
+        "chines": "端口",
+        "accuracy": [
+            16,
+            13,
+            0.8
+        ],
+        "tips": "\"port\" 可以理解为“港口”，想象一艘船停靠在岸边装卸货物或乘客的地方。记忆方法：你可以把 \"port\" 想象成左边（left），因为当你面对前方时，船的左侧被称为“port side”（左舷）。这样，每当你想到左边，就能联想到“港口”。",
+        "example": [
+            "1. The ship arrived at the port.",
+            "2. After a long journey across the stormy sea, the weary sailors finally reached the bustling port city, where they hoped to find refuge and resupply their vessel."
+        ],
+        "first_time": "2024-11-30_20:53:44",
+        "last_time": "2024-12-05_17:57:28"
+    },
+    "ai": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "ai",
+        "chines": "人工智能",
+        "accuracy": [
+            15,
+            13,
+            0.86
+        ],
+        "tips": null,
+        "example": [
+            "1. AI is changing the world.",
+            "2. Artificial intelligence, or AI, has revolutionized various industries by automating complex tasks and providing insights through data analysis."
+        ],
+        "first_time": "2024-11-30_20:53:44",
+        "last_time": "2024-12-05_17:57:31"
+    },
+    "air": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "air",
+        "chines": "空气",
+        "accuracy": [
+            13,
+            13,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The plane flew through the air.",
+            "2. Despite the chilly temperature, she took a deep breath of the fresh mountain air, feeling invigorated and ready to tackle the challenging hike ahead."
+        ],
+        "first_time": "2024-11-30_20:53:44",
+        "last_time": "2024-12-05_17:59:12"
+    },
+    "stream": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "bad"
+        ],
+        "word": "stream",
+        "chines": "流",
+        "accuracy": [
+            19,
+            10,
+            0.52
+        ],
+        "tips": "'stream'可以联想为'小溪流'，想象一条清澈的小溪在山间流淌。这个词的发音也像流水的声音，可以帮助记忆。",
+        "example": [
+            "1. The stream flows through the forest.",
+            "2. Despite the heavy rainfall, the clear stream continued to flow gently, providing a serene backdrop for the hikers making their way through the dense woods."
+        ],
+        "first_time": "2024-12-04_10:19:26",
+        "last_time": "2024-12-05_17:57:35"
+    },
+    "result": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "good"
+        ],
+        "word": "result",
+        "chines": "结果",
+        "accuracy": [
+            11,
+            8,
+            0.72
+        ],
+        "tips": "\"result\" 可以拆成 \"re\" 和 \"sult\"。\"re\" 想象成“再”，\"sult\" 音似“索尔特”，可以想象成一个叫索尔特的人再次尝试后得到了结果。这样，每次想到“结果”时，就联想到索尔特再次尝试的情景。",
+        "example": [
+            "1. The result was impressive.",
+            "2. After months of hard work and dedication, the final result of the project exceeded everyone's expectations, earning the team a well-deserved recognition."
+        ],
+        "first_time": "2024-12-04_10:20:12",
+        "last_time": "2024-12-05_18:00:06"
+    },
+    "name": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "name",
+        "chines": "名字",
+        "accuracy": [
+            3,
+            3,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. What is your name?",
+            "2. Despite the fact that he had always been known by his middle name, James, he decided to start using his full name, James William Thompson, on all official documents."
+        ],
+        "first_time": "2024-12-04_10:45:55",
+        "last_time": "2024-12-05_18:00:07"
+    },
+    "world": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "good"
+        ],
+        "word": "world",
+        "chines": "世界",
+        "accuracy": [
+            11,
+            8,
+            0.72
+        ],
+        "tips": "“world”可以联想成“全世界的角落（world）都有人玩手机（手机的英文是phone，和world发音接近）”。这样既有趣又容易记住。",
+        "example": [
+            "1. The world is round.",
+            "2. In a world where technology advances at an unprecedented rate, the way we communicate and interact with each other has fundamentally changed."
+        ],
+        "first_time": "2024-12-04_10:46:04",
+        "last_time": "2024-12-05_18:00:01"
+    },
+    "type": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "type",
+        "chines": "类型",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She is the type who always arrives early.",
+            "2. The type of technology used in modern smartphones has revolutionized the way we communicate and access information."
+        ],
+        "first_time": "2024-12-04_11:56:16",
+        "last_time": "2024-12-05_17:57:48"
+    },
+    "read": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "read",
+        "chines": "读",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She read the book.",
+            "2. After finishing her homework, she decided to read a novel that her friend had recommended."
+        ],
+        "first_time": "2024-12-04_13:12:32",
+        "last_time": "2024-12-05_17:57:50"
+    },
+    "rain": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "rain",
+        "chines": "下雨",
+        "accuracy": [
+            3,
+            3,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. It is raining.",
+            "2. Despite the heavy rain, the children decided to play in the park, splashing through puddles and laughing with delight."
+        ],
+        "first_time": "2024-12-04_13:22:03",
+        "last_time": "2024-12-05_18:00:02"
+    },
+    "sun": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "sun",
+        "chines": "太阳",
+        "accuracy": [
+            3,
+            3,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The sun rises in the east.",
+            "2. Despite the early morning chill, the warm rays of the sun quickly melted the frost on the grass, signaling the start of a beautiful day."
+        ],
+        "first_time": "2024-12-05_17:19:02",
+        "last_time": "2024-12-11_10:25:36"
+    },
+    "error": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "error",
+        "chines": "错误",
+        "accuracy": [
+            6,
+            5,
+            0.82
+        ],
+        "tips": null,
+        "example": [
+            "1. There was an error in the calculation.",
+            "2. The system generated an error message indicating that the file could not be found due to incorrect directory specifications."
+        ],
+        "first_time": "2024-12-05_17:21:49",
+        "last_time": "2024-12-05_17:59:55"
+    },
+    "ljr": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "good"
+        ],
+        "word": "ljr",
+        "chines": "作者",
+        "accuracy": [
+            4,
+            3,
+            0.74
+        ],
+        "tips": "Contact me to 1300475913@qq.com",
+        "example": [
+            "1. By LJR",
+            "2. contact me to 1300475913@qq.com"
+        ],
+        "first_time": "2024-12-05_17:59:16",
+        "last_time": "2024-12-05_17:59:16"
+    },
+    "config": {
+        "wid": null,
+        "group": [
+            "2025-03-24",
+            "2025-03-24-1",
+            "bad"
+        ],
+        "word": "config",
+        "chines": "配置",
+        "accuracy": [
+            3,
+            1,
+            0.32
+        ],
+        "tips": "config 是 configure 的缩写形式，表示“配置、设定”。你可以这样记：con（一起）+ fig（看作 figure，数字、图形，这里理解为参数），“一起设定参数”就是配置的意思。比如电脑的 config 文件，就是用来设置各种参数的。",
+        "example": [
+            "1. You can config the settings to optimize performance.  ",
+            "2. If you need to adjust the network parameters, you can config the router by accessing its admin interface through a web browser and then navigating to the advanced settings section."
+        ],
+        "first_time": "2025-03-24_16:10:26",
+        "last_time": "2025-03-24_16:10:55"
+    },
+    "prompt": {
+        "wid": null,
+        "group": [
+            "2024-12-18",
+            "great"
+        ],
+        "word": "prompt",
+        "chines": "提示词",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She gave a prompt response.",
+            "2. Despite the complex nature of the project, the team provided a prompt and efficient solution that met all the client's requirements."
+        ],
+        "first_time": "2024-12-11_10:26:13",
+        "last_time": "2024-12-11_10:26:13"
+    },
+    "accept": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "accept",
+        "chines": "接受",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She accepted the gift with a smile.",
+            "2. After much consideration, he finally accepted the challenging position at the international company, hoping it would provide new opportunities for his career growth."
+        ],
+        "first_time": "2024-12-19_16:34:50",
+        "last_time": "2024-12-19_16:36:36"
+    },
+    "accident": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "accident",
+        "chines": "事故",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The accident happened at the intersection.",
+            "2. Despite the driver's best efforts to avoid it, the accident still occurred, causing significant damage to both vehicles and a temporary disruption of traffic in the area."
+        ],
+        "first_time": "2024-12-19_16:35:09",
+        "last_time": "2024-12-19_16:36:42"
+    },
+    "accord": {
+        "wid": null,
+        "group": [
+            "2024-12-19",
+            "2024-12-19-2",
+            "great"
+        ],
+        "word": "accord",
+        "chines": "协议",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. They reached an accord on the trade deal.",
+            "2. After months of negotiation, both countries finally came to an accord that addressed the complex economic and environmental issues at stake."
+        ],
+        "first_time": "2024-12-19_17:01:25",
+        "last_time": "2024-12-19_17:01:25"
+    },
+    "resort": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "resort",
+        "chines": "度假胜地",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. We decided to go to a resort for our summer vacation.",
+            "2. After an exhausting week of work, she resorted to spending her weekend at a quiet seaside resort to unwind and rejuvenate her spirits."
+        ],
+        "first_time": "2025-01-16_21:56:00",
+        "last_time": "2025-01-16_22:53:29"
+    },
+    "depart": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "depart",
+        "chines": "分离",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He will depart tomorrow.",
+            "2. After finishing all the preparations, the expedition team will depart for the mountain area early in the morning."
+        ],
+        "first_time": "2025-01-16_21:57:43",
+        "last_time": "2025-01-16_22:52:46"
+    },
+    "cite": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "cite",
+        "chines": "引用",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She will cite the study in her report.",
+            "2. In his speech, he chose to cite a passage from a famous novel that vividly illustrated his point about perseverance."
+        ],
+        "first_time": "2025-01-16_21:58:29",
+        "last_time": "2025-01-16_21:58:29"
+    },
+    "tender": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "tender",
+        "chines": "温柔；娇嫩",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She gave a tender kiss on his cheek.",
+            "2. The mother spoke to her child in a soft, tender voice that carried an unmistakable warmth and affection, soothing the little one's fears and reminding him of the unyielding love that existed within their close-knit family."
+        ],
+        "first_time": "2025-01-16_22:00:52",
+        "last_time": "2025-01-16_22:00:52"
+    },
+    "aware": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "aware",
+        "chines": "意识到",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I am aware of the problem.",
+            "2. Despite being fully aware of the potential risks and challenges that lay ahead, she decided to embark on the journey with unwavering determination."
+        ],
+        "first_time": "2025-01-16_22:02:07",
+        "last_time": "2025-01-16_22:54:24"
+    },
+    "cooperation": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "cooperation",
+        "chines": "合作",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. We need more cooperation to finish this project on time.",
+            "2. The success of the international climate agreement relies heavily on the unwavering cooperation between all participating countries, requiring them to set aside their differences and work together towards a common goal of reducing global carbon emissions."
+        ],
+        "first_time": "2025-01-16_22:03:25",
+        "last_time": "2025-01-16_22:54:03"
+    },
+    "fairly": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "fairly",
+        "chines": "相当的",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She is fairly tall for her age.",
+            "2. The project was fairly complex, involving multiple teams from different departments working overtime to meet the deadline, and it was fairly challenging to coordinate all the tasks efficiently."
+        ],
+        "first_time": "2025-01-16_22:04:34",
+        "last_time": "2025-01-16_22:52:52"
+    },
+    "evil": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "evil",
+        "chines": "邪恶的",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. Evil deeds will be punished.",
+            "2. In many stories, the hero must confront an evil force that threatens to destroy everything he holds dear, testing his courage and resolve in ways that reveal the true strength of his character."
+        ],
+        "first_time": "2025-01-16_22:05:14",
+        "last_time": "2025-01-16_22:52:17"
+    },
+    "cancer": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "good"
+        ],
+        "word": "cancer",
+        "chines": "癌症；陋习",
+        "accuracy": [
+            6,
+            4,
+            0.66
+        ],
+        "tips": "这个词由两部分组成：can（能够）+ cer（类似单词circle圆的发音），你可以想象一个能够不断循环、恶性增殖的细胞，这就是癌症的特点。\"cancer\"本义是螃蟹，在医学上借指癌细胞像螃蟹一样张牙舞爪，具有很强的侵袭性。",
+        "example": [
+            "1. Cancer is a serious disease.",
+            "2. Research into the causes and potential cures for cancer has been ongoing for many decades, involving scientists from numerous countries who are all dedicated to improving survival rates and quality of life for patients."
+        ],
+        "first_time": "2025-01-16_22:05:57",
+        "last_time": "2025-01-16_22:54:20"
+    },
+    "apologize": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "apologize",
+        "chines": "道歉",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He should apologize for being late.",
+            "2. If you accidentally bump into someone, it's polite to stop and apologize, even if it was a minor accident and no one seems to be upset."
+        ],
+        "first_time": "2025-01-16_22:06:37",
+        "last_time": "2025-01-16_22:54:16"
+    },
+    "undergo": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "undergo",
+        "chines": "经历；度过",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He must undergo surgery.",
+            "2. Before the proposal can be implemented, it must undergo a series of rigorous reviews and modifications by different departments."
+        ],
+        "first_time": "2025-01-16_22:06:57",
+        "last_time": "2025-01-16_22:53:55"
+    },
+    "nap": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "nap",
+        "chines": "小睡；打盹",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I took a short nap after lunch.",
+            "2. Despite having a busy schedule, she managed to sneak in a quick nap during her lunch break, which left her feeling refreshed and ready to tackle the afternoon's challenges."
+        ],
+        "first_time": "2025-01-16_22:10:01",
+        "last_time": "2025-01-16_22:10:01"
+    },
+    "endure": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "endure",
+        "chines": "忍耐",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She can endure the cold winter.",
+            "2. To achieve his dreams, he must endure countless hardships and challenges that life throws at him, testing his resolve and patience to the very limit."
+        ],
+        "first_time": "2025-01-16_22:10:27",
+        "last_time": "2025-01-16_22:52:11"
+    },
+    "finance": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "finance",
+        "chines": "金融",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She studies finance at university.",
+            "2. The company's rapid expansion was made possible by innovative finance strategies that involved complex international investments and risk management models."
+        ],
+        "first_time": "2025-01-16_22:11:54",
+        "last_time": "2025-01-16_22:53:25"
+    },
+    "attempt": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "good"
+        ],
+        "word": "attempt",
+        "chines": "尝试",
+        "accuracy": [
+            3,
+            2,
+            0.66
+        ],
+        "tips": null,
+        "example": [
+            "1. She made an attempt to solve the math problem.",
+            "2. Despite knowing the danger, he made a brave attempt to rescue the trapped hikers in the stormy mountains, which required not only physical strength but also extraordinary courage and survival skills."
+        ],
+        "first_time": "2025-01-16_22:16:23",
+        "last_time": "2025-01-16_22:52:39"
+    },
+    "stage": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "stage",
+        "chines": "步骤",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She performed a dance on the stage.",
+            "2. After months of preparation, the team finally brought their innovative project to the stage, showcasing it in front of investors and enthusiasts from all over the world."
+        ],
+        "first_time": "2025-01-16_22:16:46",
+        "last_time": "2025-01-16_22:53:58"
+    },
+    "evidence": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "evidence",
+        "chines": "证据",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. The evidence proved he was innocent.",
+            "2. After carefully examining all the evidence presented in court, which included eyewitness testimonies, video footage, and forensic analysis, the jury finally reached a verdict that was consistent with the overwhelming evidence suggesting the defendant's innocence."
+        ],
+        "first_time": "2025-01-16_22:23:54",
+        "last_time": "2025-01-16_22:23:54"
+    },
+    "enomous": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "enomous",
+        "chines": "巨大的",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "你提供的单词似乎有误，应该是\"enormous\"，以下是例句：",
+            "1. This elephant is enormous."
+        ],
+        "first_time": "2025-01-16_22:24:42",
+        "last_time": "2025-01-16_22:24:42"
+    },
+    "concentrate": {
+        "wid": null,
+        "group": [
+            "2025-01-16",
+            "2025-01-16-1",
+            "great"
+        ],
+        "word": "concentrate",
+        "chines": "全神贯注",
+        "accuracy": [
+            2,
+            2,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. I need to concentrate on my homework.",
+            "2. In order to get the best results, it's important for students to concentrate on the task at hand, avoiding any distractions that might reduce their efficiency or accuracy in completing the work."
+        ],
+        "first_time": "2025-01-16_22:32:21",
+        "last_time": "2025-01-16_22:53:41"
+    },
+    "return": {
+        "wid": null,
+        "group": [
+            "2025-03-24",
+            "2025-03-24-2"
+        ],
+        "word": "return",
+        "chines": "返回",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. He will return the book to the library tomorrow.  ",
+            "2. After finishing his travels abroad, he decided to return to his hometown, where he planned to spend the rest of his life in peace and tranquility."
+        ],
+        "first_time": "2025-03-24_16:32:46",
+        "last_time": "2025-03-24_16:32:46"
+    },
+    "code": {
+        "wid": null,
+        "group": [
+            "2025-03-24",
+            "2025-03-24-3"
+        ],
+        "word": "code",
+        "chines": "代码",
+        "accuracy": [
+            1,
+            1,
+            0.99
+        ],
+        "tips": null,
+        "example": [
+            "1. She learned how to code last year.  ",
+            "2. The programmer spent weeks writing the code that would eventually enable the software to run smoothly on multiple platforms while maintaining its original functionality."
+        ],
+        "first_time": "2025-03-24_16:36:32",
+        "last_time": "2025-03-24_16:36:32"
+    }
+}

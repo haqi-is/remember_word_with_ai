@@ -1,0 +1,12 @@
+{
+    "net_is_work": true,
+    "example_is_work": true,
+    "tip_is_work": true,
+    "log_is_work": true,
+    "sd_is_work": true,
+    "all_groups": [
+        "longer",
+        "sorder",
+        "med"
+    ]
+}

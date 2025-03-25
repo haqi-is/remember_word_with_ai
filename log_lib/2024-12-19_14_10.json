@@ -1,0 +1,782 @@
+{
+    "ability": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "ability",
+            "chines": "能力",
+            "accuracy": [
+                7,
+                5,
+                0.7
+            ],
+            "tips": "“ability”可以拆成“able”+“ity”。记住“able”是“能”的意思，“ity”是一个常见的名词后缀，表示“性质、状态”。所以“ability”就是“能”的性质或状态，即“能力”。",
+            "example": [
+                "1. She has the ability to speak four languages.",
+                "2. Despite facing numerous challenges throughout his life, John's exceptional ability to overcome adversity and achieve his goals has inspired many people around him."
+            ],
+            "first_time": "2024-12-19_13:20:52",
+            "last_time": "2024-12-19_14:04:41"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:04:41"
+    },
+    "able": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "able",
+            "chines": "能够",
+            "accuracy": [
+                7,
+                6,
+                0.85
+            ],
+            "tips": null,
+            "example": [
+                "1. She is able to swim.",
+                "2. Despite the challenging conditions, the team was able to complete the project on time."
+            ],
+            "first_time": "2024-12-19_13:21:30",
+            "last_time": "2024-12-19_14:04:43"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:04:43"
+    },
+    "abroad": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "abroad",
+            "chines": "在国外",
+            "accuracy": [
+                9,
+                5,
+                0.55
+            ],
+            "tips": "“abroad”可以拆成 “a-”（表示“在...上”）和 “broad”（宽广的）。想象一下，你站在一块大石头上，这块石头非常宽广，你从这里眺望远方，就像是到了国外一样。所以，“abroad”就是“在国外”的意思。",
+            "example": [
+                "1. She traveled abroad last summer.",
+                "2. Despite the challenges of adapting to a new culture, he decided to pursue his studies abroad to gain a global perspective and enhance his career opportunities."
+            ],
+            "first_time": "2024-12-19_13:22:52",
+            "last_time": "2024-12-19_14:04:49"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:04:49"
+    },
+    "absent": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "absent",
+            "chines": "缺席",
+            "accuracy": [
+                5,
+                4,
+                0.79
+            ],
+            "tips": null,
+            "example": [
+                "1. He was absent from school yesterday.",
+                "2. Despite being absent from the meeting, she managed to stay informed about the decisions made by her colleagues."
+            ],
+            "first_time": "2024-12-19_13:23:55",
+            "last_time": "2024-12-19_14:04:51"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:04:51"
+    },
+    "absorb": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "absorb",
+            "chines": "吸收",
+            "accuracy": [
+                10,
+                5,
+                0.49
+            ],
+            "tips": "“吸收”这个词可以联想为：海绵吸水。海绵（ab-sponge）吸水（sorb-sound），海绵吸水就是吸收水分的意思，这样可以帮助你记住 absorb 表示“吸收”的意思。",
+            "example": [
+                "1. The sponge absorbs water.",
+                "2. The new employee was eager to absorb as much knowledge as possible about the company's operations and culture during the orientation program."
+            ],
+            "first_time": "2024-12-19_13:24:14",
+            "last_time": "2024-12-19_14:04:58"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:04:58"
+    },
+    "academic": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "academic",
+            "chines": "理论的",
+            "accuracy": [
+                11,
+                5,
+                0.44
+            ],
+            "tips": "“academic”可以拆分成“a-ca-de-mic”。你可以想象成“A级的学霸”，A级代表成绩非常好，学霸就是学术上的高手，这样就能联想到学校、学习和学术这些意思。这个词主要指与教育、学校或学术有关的人或事。希望这个方法能帮你记住“academic”。",
+            "example": [
+                "1. She is an academic at Harvard University.",
+                "2. His research on climate change has made significant contributions to the academic community and influenced global environmental policies."
+            ],
+            "first_time": "2024-12-19_13:24:45",
+            "last_time": "2024-12-19_14:05:10"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:05:10"
+    },
+    "accept": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "accept",
+            "chines": "赞同",
+            "accuracy": [
+                8,
+                6,
+                0.74
+            ],
+            "tips": "“accept”可以拆成“ac-”和“-cept”。你可以想象“ac-”是“acknowledge”的缩写，意味着“认可”，“-cept”可以联想成“receive”的一部分，意味着“接收”。所以“accept”就是“认可并接收”。\n\n简单来说，“accept”就是“接受”，比如别人给你的建议或者礼物，你同意了就叫“接受”。",
+            "example": [
+                "1. She accepted the gift with a smile.",
+                "2. After much consideration, he decided to accept the job offer, even though it meant relocating to a different city and adapting to a new environment."
+            ],
+            "first_time": "2024-12-19_13:25:00",
+            "last_time": "2024-12-19_14:05:14"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:05:14"
+    },
+    "acceptable": {
+        "this_all": 2,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "acceptable",
+            "chines": "可接受的",
+            "accuracy": [
+                10,
+                4,
+                0.39
+            ],
+            "tips": "acceptable 可以拆成 “accept”（接受）+ “able”（能）。意思就是“能被接受的”。想象一下，如果你做了一件事情，别人点头说“可以”，那就是 acceptable。记住：能被接受的就是 acceptable。",
+            "example": [
+                "1. This answer is acceptable.",
+                "2. Despite the challenging circumstances, the project's outcome was deemed acceptable by all stakeholders involved."
+            ],
+            "first_time": "2024-12-19_13:25:13",
+            "last_time": "2024-12-19_14:05:24"
+        },
+        "this_accuracy": 0.49,
+        "think_time": [],
+        "last_time": "2024-12-19_14:05:24"
+    },
+    "accident": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "accident",
+            "chines": "事故",
+            "accuracy": [
+                7,
+                5,
+                0.7
+            ],
+            "tips": "“accident”可以拆成“ac-ci-dent”，想象成“阿聪出事了”，这样就能记住它的意思了。阿聪（ac）出了事（ci），非常不幸（dent）。这个方法可以帮助你记住“accident”表示“意外事故”。",
+            "example": [
+                "1. The accident happened at the intersection.",
+                "2. Despite the driver's best efforts to avoid it, the accident still occurred, causing significant damage to both vehicles and a temporary traffic jam on the busy highway."
+            ],
+            "first_time": "2024-12-19_13:25:33",
+            "last_time": "2024-12-19_14:05:29"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:05:29"
+    },
+    "accomplish": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "accomplish",
+            "chines": "完成",
+            "accuracy": [
+                8,
+                5,
+                0.61
+            ],
+            "tips": "“accomplish”可以拆分成 “ac-” (表示“做”) + “com-” (表示“完全”) + “plish” (听起来像“皮了事儿”)。所以你可以理解为“把事情完全做完”。这样记忆：做事要做到底，完全完成任务，就是“accomplish”。",
+            "example": [
+                "1. She accomplished her goal of running a marathon.",
+                "2. Despite the numerous obstacles and challenges, he was determined to accomplish his lifelong dream of becoming a successful novelist."
+            ],
+            "first_time": "2024-12-19_13:26:09",
+            "last_time": "2024-12-19_14:05:32"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:05:32"
+    },
+    "accord": {
+        "this_all": 3,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "accord",
+            "chines": "协议",
+            "accuracy": [
+                8,
+                4,
+                0.49
+            ],
+            "tips": "“accord”可以拆成“ac-”和“-cord”，“ac-”可以理解为“一起”，“-cord”听起来像“心”。所以“accord”可以理解为“心往一处想，劲往一处使”，也就是“一致、和谐”的意思。这样记忆会更形象一些。",
+            "example": [
+                "1. They reached an accord on the trade deal.",
+                "2. After months of negotiation, the two countries finally came to an accord that included significant concessions from both sides."
+            ],
+            "first_time": "2024-12-19_13:26:26",
+            "last_time": "2024-12-19_14:09:16"
+        },
+        "this_accuracy": 0.32,
+        "think_time": [],
+        "last_time": "2024-12-19_14:09:16"
+    },
+    "account": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "account",
+            "chines": "账户",
+            "accuracy": [
+                8,
+                5,
+                0.61
+            ],
+            "tips": "\"account\" 可以拆分为 \"ac-\" 和 \"count\"。\"ac-\" 可以理解为 \"to\" 或 \"towards\"，\"count\" 就是“数”或“计算”的意思。所以 \"account\" 可以理解为“计算某事”或“对某事进行记录”。\n\n简单记忆：账**户**（账户需要记录和计算）。\n\n希望这个方法能帮助你记住 \"account\"。",
+            "example": [
+                "1. She checked her bank account online.",
+                "2. Despite the initial confusion, he was able to provide a detailed account of the events that transpired during the meeting."
+            ],
+            "first_time": "2024-12-19_13:26:58",
+            "last_time": "2024-12-19_14:06:00"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:00"
+    },
+    "accuse": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "accuse",
+            "chines": "谴责控诉",
+            "accuracy": [
+                10,
+                5,
+                0.49
+            ],
+            "tips": "“accuse”这个词可以拆成“ac”和“cuse”。想象一下，“ac”像空调的缩写，“cuse”听起来像“指控”。所以，你可以想象一个人开空调（ac）时被另一个人指控（cuse）浪费电。这样就记住了“accuse”是“指责、指控”的意思。",
+            "example": [
+                "1. She accused him of stealing her phone.",
+                "2. Despite the lack of evidence, the prosecutor continued to accuse the defendant of embezzlement, arguing that the circumstantial evidence was too strong to ignore."
+            ],
+            "first_time": "2024-12-19_13:27:13",
+            "last_time": "2024-12-19_14:06:04"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:04"
+    },
+    "ache": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "ache",
+            "chines": "痛",
+            "accuracy": [
+                6,
+                5,
+                0.82
+            ],
+            "tips": null,
+            "example": [
+                "1. My head aches.",
+                "2. Despite taking medication, the persistent ache in her back made it difficult for her to concentrate on the meeting."
+            ],
+            "first_time": "2024-12-19_13:27:24",
+            "last_time": "2024-12-19_14:06:07"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:07"
+    },
+    "achieve": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "achieve",
+            "chines": "实现",
+            "accuracy": [
+                10,
+                4,
+                0.39
+            ],
+            "tips": "“achieve”可以拆成 “a” + “chieve”。想象一下，“a” 是一个苹果，“chieve” 看起来像“chief”（首领），所以你可以想象自己是一个小苹果，努力成为果林里的首领。这样就能记住“achieve”是达成目标、实现的意思。",
+            "example": [
+                "1. She achieved her goal.",
+                "2. Despite the numerous obstacles and challenges, he was able to achieve his lifelong dream of becoming a professional athlete."
+            ],
+            "first_time": "2024-12-19_13:27:44",
+            "last_time": "2024-12-19_14:06:11"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:11"
+    },
+    "achievement": {
+        "this_all": 2,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "achievement",
+            "chines": "成就",
+            "accuracy": [
+                6,
+                4,
+                0.66
+            ],
+            "tips": null,
+            "example": [
+                "1. Her hard work led to great achievement.",
+                "2. The scientist's groundbreaking discovery was a significant achievement that changed the course of medical research."
+            ],
+            "first_time": "2024-12-19_13:28:09",
+            "last_time": "2024-12-19_14:06:21"
+        },
+        "this_accuracy": 0.49,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:21"
+    },
+    "acquire": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "acquire",
+            "chines": "获得购得",
+            "accuracy": [
+                8,
+                5,
+                0.61
+            ],
+            "tips": "“acquire”可以拆分成“a-”和“-quire”。你可以想象成“a”代表“我”，“-quire”听起来像“求”，合起来就是“我求”，意思是我要求得到、获得。所以“acquire”的意思是“获得、取得”。\n\n另外，你也可以联想一下“require”这个词，它也有“需要、要求”的意思，“acquire”和“require”都含有“-quire”这个部分，可以帮助你记忆。",
+            "example": [
+                "1. She acquired a new car last week.",
+                "2. The company acquired a smaller competitor to expand its market share and diversify its product offerings."
+            ],
+            "first_time": "2024-12-19_13:28:29",
+            "last_time": "2024-12-19_14:06:25"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:25"
+    },
+    "action": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "action",
+            "chines": "行动",
+            "accuracy": [
+                4,
+                4,
+                0.99
+            ],
+            "tips": null,
+            "example": [
+                "1. She took action to solve the problem.",
+                "2. In response to the increasing pollution, the government has taken a series of actions to promote environmental protection and sustainable development."
+            ],
+            "first_time": "2024-12-19_13:28:43",
+            "last_time": "2024-12-19_14:06:27"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:27"
+    },
+    "activity": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "activity",
+            "chines": "活动",
+            "accuracy": [
+                12,
+                6,
+                0.49
+            ],
+            "tips": "“activity”可以拆成“act”和“ivity”。 “act”表示“做”，“ivity”可以联想为“活力”。所以“activity”就是有活力的行动或活动。这样想：任何有活力的、需要你去做的事情，都是activity。",
+            "example": [
+                "1. The children enjoy outdoor activity.",
+                "2. Despite the rainy weather, the community center organized a variety of indoor activity options for the participants."
+            ],
+            "first_time": "2024-12-19_13:29:04",
+            "last_time": "2024-12-19_14:06:32"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:32"
+    },
+    "actual": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "actual",
+            "chines": "真实的",
+            "accuracy": [
+                6,
+                4,
+                0.66
+            ],
+            "tips": "实际的、真实的。可以联想为“实际上”（actual）就是“真的”（true），两者发音有点像，可以帮你记忆。",
+            "example": [
+                "1. The actual cost was higher than expected.",
+                "2. Despite the initial estimates, the actual expenses for the project ended up being significantly higher due to unforeseen complications and material shortages."
+            ],
+            "first_time": "2024-12-19_13:29:54",
+            "last_time": "2024-12-19_14:06:35"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:35"
+    },
+    "actually": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "actually",
+            "chines": "事实上",
+            "accuracy": [
+                6,
+                5,
+                0.82
+            ],
+            "tips": null,
+            "example": [
+                "1. Actually, I don't like coffee.",
+                "2. Actually, I was thinking about going to the library, but then I realized I had already borrowed all the books I needed."
+            ],
+            "first_time": "2024-12-19_13:30:11",
+            "last_time": "2024-12-19_14:06:39"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:39"
+    },
+    "adapt": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "adapt",
+            "chines": "适应",
+            "accuracy": [
+                2,
+                2,
+                0.99
+            ],
+            "tips": null,
+            "example": [
+                "1. The plant adapted to the new environment.",
+                "2. Despite the challenging circumstances, she managed to adapt her teaching methods to meet the diverse needs of her students."
+            ],
+            "first_time": "2024-12-19_13:58:05",
+            "last_time": "2024-12-19_14:06:45"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:45"
+    },
+    "adaptable": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "adaptable",
+            "chines": "有适应能力的",
+            "accuracy": [
+                2,
+                2,
+                0.99
+            ],
+            "tips": null,
+            "example": [
+                "1. This plant is adaptable to various climates.",
+                "2. Despite the rapidly changing technology, Sarah proved to be highly adaptable, quickly mastering new software and tools to enhance her productivity."
+            ],
+            "first_time": "2024-12-19_13:58:26",
+            "last_time": "2024-12-19_14:06:58"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:06:58"
+    },
+    "add": {
+        "this_all": 2,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "add",
+            "chines": "添加",
+            "accuracy": [
+                3,
+                2,
+                0.66
+            ],
+            "tips": null,
+            "example": [
+                "1. Add two teaspoons of sugar to the coffee.",
+                "2. To enhance the flavor of the dish, add a pinch of saffron and a dash of lemon zest just before serving."
+            ],
+            "first_time": "2024-12-19_13:58:29",
+            "last_time": "2024-12-19_14:09:18"
+        },
+        "this_accuracy": 0.49,
+        "think_time": [],
+        "last_time": "2024-12-19_14:09:18"
+    },
+    "addict": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "addict",
+            "chines": "使上瘾",
+            "accuracy": [
+                2,
+                2,
+                0.99
+            ],
+            "tips": null,
+            "example": [
+                "1. He is an addict.",
+                "2. Despite numerous attempts to quit, she remained an addict, struggling with the constant cravings and the social stigma that came with her addiction."
+            ],
+            "first_time": "2024-12-19_13:59:08",
+            "last_time": "2024-12-19_14:07:17"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:07:17"
+    },
+    "addiction": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "addiction",
+            "chines": "入迷嗜好",
+            "accuracy": [
+                2,
+                2,
+                0.99
+            ],
+            "tips": null,
+            "example": [
+                "1. His addiction to alcohol ruined his career.",
+                "2. Despite numerous attempts to quit, her addiction to smoking persisted, affecting both her health and social life."
+            ],
+            "first_time": "2024-12-19_13:59:36",
+            "last_time": "2024-12-19_14:07:24"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:07:24"
+    },
+    "addition": {
+        "this_all": 3,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "addition",
+            "chines": "添加物",
+            "accuracy": [
+                4,
+                2,
+                0.49
+            ],
+            "tips": "“addition”可以拆成“add”（加）和“ition”来记忆。想象你在做数学题，不断在加数字，这就是“addition”。简单来说，“addition”就是增加或添加的意思。",
+            "example": [
+                "1. We made an addition to our house.",
+                "2. In addition to the main course, we also ordered several appetizers and desserts."
+            ],
+            "first_time": "2024-12-19_14:00:44",
+            "last_time": "2024-12-19_14:09:26"
+        },
+        "this_accuracy": 0.32,
+        "think_time": [],
+        "last_time": "2024-12-19_14:09:26"
+    },
+    "additionally": {
+        "this_all": 1,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "additionally",
+            "chines": "除此之外",
+            "accuracy": [
+                2,
+                2,
+                0.99
+            ],
+            "tips": null,
+            "example": [
+                "1. Additionally, we need to buy some milk.",
+                "2. Additionally, the company plans to expand its operations into new markets, which will require significant investment in technology and human resources."
+            ],
+            "first_time": "2024-12-19_14:01:06",
+            "last_time": "2024-12-19_14:07:58"
+        },
+        "this_accuracy": 0.99,
+        "think_time": [],
+        "last_time": "2024-12-19_14:07:58"
+    },
+    "adjust": {
+        "this_all": 4,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "adjust",
+            "chines": "调整整理",
+            "accuracy": [
+                5,
+                2,
+                0.39
+            ],
+            "tips": "“adjust”可以拆成“ad-just”，想象一下“正好、刚刚好”的意思。比如衣服大小“调整”一下就“刚好”了。这样记是不是简单一些？",
+            "example": [
+                "1. She needs to adjust the mirror.",
+                "2. After moving to a new city, he had to adjust his lifestyle to fit the faster pace of urban living."
+            ],
+            "first_time": "2024-12-19_14:01:20",
+            "last_time": "2024-12-19_14:10:18"
+        },
+        "this_accuracy": 0.24,
+        "think_time": [],
+        "last_time": "2024-12-19_14:10:18"
+    },
+    "admiration": {
+        "this_all": 5,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "admiration",
+            "chines": "欣赏",
+            "accuracy": [
+                6,
+                2,
+                0.32
+            ],
+            "tips": "“admiration”可以拆成“ad”和“miration”。想象一下，你看到一个很牛的人（如偶像、英雄），你会“啊”（ad）地一声，然后眼睛发亮，心里充满敬仰（miration）。这样就能记住“admiration”是表示对某人的钦佩或赞赏。",
+            "example": [
+                "1. She felt admiration for his bravery.",
+                "2. Despite their rivalry, there was a mutual admiration between the two scientists that stemmed from their shared passion for groundbreaking research."
+            ],
+            "first_time": "2024-12-19_14:02:08",
+            "last_time": "2024-12-19_14:10:23"
+        },
+        "this_accuracy": 0.19,
+        "think_time": [],
+        "last_time": "2024-12-19_14:10:23"
+    },
+    "adopt": {
+        "this_all": 2,
+        "this_right": 1,
+        "word_param": {
+            "wid": null,
+            "group": null,
+            "word": "adopt",
+            "chines": "采用",
+            "accuracy": [
+                3,
+                2,
+                0.66
+            ],
+            "tips": null,
+            "example": [
+                "1. She decided to adopt a cat from the shelter.",
+                "2. After years of trying to conceive, they finally decided to adopt a child, a decision that brought immense joy and fulfillment to their lives."
+            ],
+            "first_time": "2024-12-19_14:02:35",
+            "last_time": "2024-12-19_14:10:15"
+        },
+        "this_accuracy": 0.49,
+        "think_time": [],
+        "last_time": "2024-12-19_14:10:15"
+    },
+    "今日完成": {
+        "max_wrong_word": null,
+        "log_path": null,
+        "end_time": "2024-12-19_14:10:23"
+    }
+}
